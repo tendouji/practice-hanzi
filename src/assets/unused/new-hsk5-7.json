@@ -1,0 +1,920 @@
+[
+    {
+        "no": "919",
+        "chinese": "幽默",
+        "pinyin": "yōumò",
+        "meaning": "Humor"
+    },
+    {
+        "no": "920",
+        "chinese": "尤其",
+        "pinyin": "yóuqí",
+        "meaning": "especially"
+    },
+    {
+        "no": "921",
+        "chinese": "由此",
+        "pinyin": "yóu cǐ",
+        "meaning": "from this; therefrom; thus"
+    },
+    {
+        "no": "922",
+        "chinese": "犹豫",
+        "pinyin": "yóuyù",
+        "meaning": "Hesitate"
+    },
+    {
+        "no": "923",
+        "chinese": "游泳池",
+        "pinyin": "yóu yǒng chí",
+        "meaning": "swimming pool"
+    },
+    {
+        "no": "924",
+        "chinese": "友谊",
+        "pinyin": "yǒuyì",
+        "meaning": "friendship"
+    },
+    {
+        "no": "925",
+        "chinese": "有毒",
+        "pinyin": "yǒu dú",
+        "meaning": "poisonous; venomous"
+    },
+    {
+        "no": "926",
+        "chinese": "有害",
+        "pinyin": "yǒu hài",
+        "meaning": "harmful; pernicious; detrimental"
+    },
+    {
+        "no": "927",
+        "chinese": "有力",
+        "pinyin": "yǒu lì",
+        "meaning": "strong; powerful; forceful; energetic; vigorous"
+    },
+    {
+        "no": "928",
+        "chinese": "有利于",
+        "pinyin": "yǒu lì yú",
+        "meaning": "in favour of; make for; to the benefit of; avail"
+    },
+    {
+        "no": "929",
+        "chinese": "有着",
+        "pinyin": "yǒu zhe",
+        "meaning": "have; possess"
+    },
+    {
+        "no": "930",
+        "chinese": "羽毛球",
+        "pinyin": "yǔmáoqiú",
+        "meaning": "Badminton"
+    },
+    {
+        "no": "931",
+        "chinese": "羽绒服",
+        "pinyin": "yǔróngfú",
+        "meaning": "Down Jackets"
+    },
+    {
+        "no": "932",
+        "chinese": "雨水",
+        "pinyin": "yǔ shuǐ",
+        "meaning": "rainwater; rainfall; rain"
+    },
+    {
+        "no": "933",
+        "chinese": "预备",
+        "pinyin": "yù bèi",
+        "meaning": "prepare; get ready; preparation"
+    },
+    {
+        "no": "934",
+        "chinese": "预期",
+        "pinyin": "yùqī",
+        "meaning": "expect; anticipate"
+    },
+    {
+        "no": "935",
+        "chinese": "元旦",
+        "pinyin": "uándàn",
+        "meaning": "the New year's Day"
+    },
+    {
+        "no": "936",
+        "chinese": "园林",
+        "pinyin": "yuánlín",
+        "meaning": "Gardens"
+    },
+    {
+        "no": "937",
+        "chinese": "原理",
+        "pinyin": "yuánlǐ",
+        "meaning": "principle"
+    },
+    {
+        "no": "938",
+        "chinese": "原始",
+        "pinyin": "yuánshǐ",
+        "meaning": "Original"
+    },
+    {
+        "no": "939",
+        "chinese": "原先",
+        "pinyin": "yuánxiān",
+        "meaning": "Original"
+    },
+    {
+        "no": "940",
+        "chinese": "原有",
+        "pinyin": "yuán yǒu",
+        "meaning": "original"
+    },
+    {
+        "no": "941",
+        "chinese": "远处",
+        "pinyin": "yuǎn chù",
+        "meaning": "distance; far away"
+    },
+    {
+        "no": "942",
+        "chinese": "怨",
+        "pinyin": "yuàn",
+        "meaning": "blame ; complain; resentment; enmity"
+    },
+    {
+        "no": "943",
+        "chinese": "愿",
+        "pinyin": "yuàn",
+        "meaning": "will; wish; desire; hope; willing"
+    },
+    {
+        "no": "944",
+        "chinese": "约束",
+        "pinyin": "yuēshù",
+        "meaning": "bind; restrain"
+    },
+    {
+        "no": "945",
+        "chinese": "月饼",
+        "pinyin": "yuè bǐng",
+        "meaning": "moon cake"
+    },
+    {
+        "no": "946",
+        "chinese": "月球",
+        "pinyin": "yuè qiú",
+        "meaning": "Moon"
+    },
+    {
+        "no": "947",
+        "chinese": "阅览室",
+        "pinyin": "yuè lǎn shì",
+        "meaning": "reading room"
+    },
+    {
+        "no": "948",
+        "chinese": "运",
+        "pinyin": "yùn",
+        "meaning": "transport; luck; fortune; carry; move; wield"
+    },
+    {
+        "no": "949",
+        "chinese": "运行",
+        "pinyin": "yùnxíng",
+        "meaning": "run; working"
+    },
+    {
+        "no": "950",
+        "chinese": "灾",
+        "pinyin": "zāi",
+        "meaning": "disaster; calamity; adversity; personal misfortune"
+    },
+    {
+        "no": "951",
+        "chinese": "灾害",
+        "pinyin": "zāihài",
+        "meaning": "disaster"
+    },
+    {
+        "no": "952",
+        "chinese": "灾难",
+        "pinyin": "zāinàn",
+        "meaning": "disaster"
+    },
+    {
+        "no": "953",
+        "chinese": "灾区",
+        "pinyin": "zāi qū",
+        "meaning": "disaster area"
+    },
+    {
+        "no": "954",
+        "chinese": "再次",
+        "pinyin": "zài cì",
+        "meaning": "once more; once again; one more time"
+    },
+    {
+        "no": "955",
+        "chinese": "再也",
+        "pinyin": "zài yě",
+        "meaning": "never; anymore; no longer"
+    },
+    {
+        "no": "956",
+        "chinese": "在场",
+        "pinyin": "zài chǎng",
+        "meaning": "be on the scene; be on the spot"
+    },
+    {
+        "no": "957",
+        "chinese": "在内",
+        "pinyin": "zài nèi",
+        "meaning": "including; inside; internally"
+    },
+    {
+        "no": "958",
+        "chinese": "暂时",
+        "pinyin": "zànshí",
+        "meaning": "temporary"
+    },
+    {
+        "no": "959",
+        "chinese": "暂停",
+        "pinyin": "zàn tíng",
+        "meaning": "pause; suspend; time out"
+    },
+    {
+        "no": "960",
+        "chinese": "糟",
+        "pinyin": "zāo",
+        "meaning": "dregs; waste; spoil; bad; in a mess"
+    },
+    {
+        "no": "961",
+        "chinese": "糟糕",
+        "pinyin": "zāogāo",
+        "meaning": "terrible"
+    },
+    {
+        "no": "962",
+        "chinese": "早期",
+        "pinyin": "zǎo qī",
+        "meaning": "early phase; early stage"
+    },
+    {
+        "no": "963",
+        "chinese": "增",
+        "pinyin": "zēng",
+        "meaning": "increase; gain; add; expand"
+    },
+    {
+        "no": "964",
+        "chinese": "增产",
+        "pinyin": "zēng chǎn",
+        "meaning": "increase production"
+    },
+    {
+        "no": "965",
+        "chinese": "增大",
+        "pinyin": "zēng dà",
+        "meaning": "enlargement; magnify; increase"
+    },
+    {
+        "no": "966",
+        "chinese": "增多",
+        "pinyin": "zēng duō",
+        "meaning": "increase; grow in number"
+    },
+    {
+        "no": "967",
+        "chinese": "增强",
+        "pinyin": "zēng qiáng",
+        "meaning": "strengthen; enhance; heighten"
+    },
+    {
+        "no": "968",
+        "chinese": "赠",
+        "pinyin": "zèng",
+        "meaning": "give as a present; present as a gift"
+    },
+    {
+        "no": "969",
+        "chinese": "赠送",
+        "pinyin": "zèngsòng",
+        "meaning": "Give"
+    },
+    {
+        "no": "970",
+        "chinese": "摘",
+        "pinyin": "zhāi",
+        "meaning": "pick"
+    },
+    {
+        "no": "971",
+        "chinese": "展览",
+        "pinyin": "zhǎnlǎn",
+        "meaning": "exhibition"
+    },
+    {
+        "no": "972",
+        "chinese": "展示",
+        "pinyin": "zhǎnshì",
+        "meaning": "Exhibit"
+    },
+    {
+        "no": "973",
+        "chinese": "展现",
+        "pinyin": "zhǎnxiàn",
+        "meaning": "To show"
+    },
+    {
+        "no": "974",
+        "chinese": "占领",
+        "pinyin": "zhànlǐng",
+        "meaning": "occupy"
+    },
+    {
+        "no": "975",
+        "chinese": "占有",
+        "pinyin": "zhàn yǒu",
+        "meaning": "own; possess; have; occupy; hold; having"
+    },
+    {
+        "no": "976",
+        "chinese": "涨",
+        "pinyin": "zhǎng",
+        "meaning": "rise"
+    },
+    {
+        "no": "977",
+        "chinese": "涨价",
+        "pinyin": "zhǎng jià",
+        "meaning": "rise in price; inflation of prices; mark up"
+    },
+    {
+        "no": "978",
+        "chinese": "掌握",
+        "pinyin": "zhǎngwò",
+        "meaning": "master"
+    },
+    {
+        "no": "979",
+        "chinese": "招生",
+        "pinyin": "zhāo shēng",
+        "meaning": "enroll new students; recruit students"
+    },
+    {
+        "no": "980",
+        "chinese": "招手",
+        "pinyin": "zhāo shǒu",
+        "meaning": "beckon; wave; beck"
+    },
+    {
+        "no": "981",
+        "chinese": "珍贵",
+        "pinyin": "zhēnguì",
+        "meaning": "precious"
+    },
+    {
+        "no": "982",
+        "chinese": "珍惜",
+        "pinyin": "zhēnxī",
+        "meaning": "cherish"
+    },
+    {
+        "no": "983",
+        "chinese": "珍珠",
+        "pinyin": "zhēnzhū",
+        "meaning": "Pearl"
+    },
+    {
+        "no": "984",
+        "chinese": "真诚",
+        "pinyin": "zhēn chéng",
+        "meaning": "sincere; genuine; true; genuineness"
+    },
+    {
+        "no": "985",
+        "chinese": "真理",
+        "pinyin": "zhēnlǐ",
+        "meaning": "Truth"
+    },
+    {
+        "no": "986",
+        "chinese": "真相",
+        "pinyin": "zhēnxiàng",
+        "meaning": "fact; truth"
+    },
+    {
+        "no": "987",
+        "chinese": "诊断",
+        "pinyin": "zhěnduàn",
+        "meaning": "Diagnosis"
+    },
+    {
+        "no": "988",
+        "chinese": "振动",
+        "pinyin": "zhèndòng",
+        "meaning": "Vibration"
+    },
+    {
+        "no": "989",
+        "chinese": "震惊",
+        "pinyin": "zhènjīng",
+        "meaning": "shock"
+    },
+    {
+        "no": "990",
+        "chinese": "争议",
+        "pinyin": "zhēngyì",
+        "meaning": "dispute"
+    },
+    {
+        "no": "991",
+        "chinese": "正版",
+        "pinyin": "zhèng bǎn",
+        "meaning": "genuine; legal copy"
+    },
+    {
+        "no": "992",
+        "chinese": "正规",
+        "pinyin": "zhèngguī",
+        "meaning": "regular"
+    },
+    {
+        "no": "993",
+        "chinese": "正如",
+        "pinyin": "zhèng rú",
+        "meaning": "just as; exactly as"
+    },
+    {
+        "no": "994",
+        "chinese": "正义",
+        "pinyin": "zhèngyì",
+        "meaning": "justice"
+    },
+    {
+        "no": "995",
+        "chinese": "证实",
+        "pinyin": "zhèngshí",
+        "meaning": "Confirm"
+    },
+    {
+        "no": "996",
+        "chinese": "证书",
+        "pinyin": "zhèngshū",
+        "meaning": "certificate"
+    },
+    {
+        "no": "997",
+        "chinese": "挣",
+        "pinyin": "zhèng",
+        "meaning": "earn, make"
+    },
+    {
+        "no": "998",
+        "chinese": "挣钱",
+        "pinyin": "zhèng qián",
+        "meaning": "make money; earn money"
+    },
+    {
+        "no": "999",
+        "chinese": "之内",
+        "pinyin": "zhī nèi",
+        "meaning": "in; within"
+    },
+    {
+        "no": "1000",
+        "chinese": "之外",
+        "pinyin": "zhī wài",
+        "meaning": "outside; except"
+    },
+    {
+        "no": "1001",
+        "chinese": "之下",
+        "pinyin": "zhī xià",
+        "meaning": "under"
+    },
+    {
+        "no": "1002",
+        "chinese": "之中",
+        "pinyin": "zhī zhōng",
+        "meaning": "in; in the midst of; among"
+    },
+    {
+        "no": "1003",
+        "chinese": "支出",
+        "pinyin": "zhīchū",
+        "meaning": "payout; expend"
+    },
+    {
+        "no": "1004",
+        "chinese": "支配",
+        "pinyin": "zhīpèi",
+        "meaning": "Control"
+    },
+    {
+        "no": "1005",
+        "chinese": "执行",
+        "pinyin": "zhíxíng",
+        "meaning": "implement"
+    },
+    {
+        "no": "1006",
+        "chinese": "直线",
+        "pinyin": "zhí xiàn",
+        "meaning": "straight line"
+    },
+    {
+        "no": "1007",
+        "chinese": "值班",
+        "pinyin": "zhíbān",
+        "meaning": "Be on duty"
+    },
+    {
+        "no": "1008",
+        "chinese": "职能",
+        "pinyin": "zhínéng",
+        "meaning": "function"
+    },
+    {
+        "no": "1009",
+        "chinese": "职位",
+        "pinyin": "zhíwèi",
+        "meaning": "position"
+    },
+    {
+        "no": "1010",
+        "chinese": "职务",
+        "pinyin": "zhíwù",
+        "meaning": "post"
+    },
+    {
+        "no": "1011",
+        "chinese": "只不过",
+        "pinyin": "zhǐ bú guò",
+        "meaning": "only; just; merely"
+    },
+    {
+        "no": "1012",
+        "chinese": "只见",
+        "pinyin": "zhǐ jiàn",
+        "meaning": "only see; see"
+    },
+    {
+        "no": "1013",
+        "chinese": "指标",
+        "pinyin": "zhǐbiāo",
+        "meaning": "index"
+    },
+    {
+        "no": "1014",
+        "chinese": "指甲",
+        "pinyin": "zhǐjia",
+        "meaning": "nail"
+    },
+    {
+        "no": "1015",
+        "chinese": "指示",
+        "pinyin": "zhǐshì",
+        "meaning": "Instructions"
+    },
+    {
+        "no": "1016",
+        "chinese": "指责",
+        "pinyin": "zhǐzé",
+        "meaning": "Accuse"
+    },
+    {
+        "no": "1017",
+        "chinese": "至",
+        "pinyin": "zhì",
+        "meaning": "to; till; until; extremely"
+    },
+    {
+        "no": "1018",
+        "chinese": "制成",
+        "pinyin": "zhì chéng",
+        "meaning": "make into; be made from"
+    },
+    {
+        "no": "1019",
+        "chinese": "制约",
+        "pinyin": "zhìyuē",
+        "meaning": "restrict"
+    },
+    {
+        "no": "1020",
+        "chinese": "治安",
+        "pinyin": "zhì'ān",
+        "meaning": "public security"
+    },
+    {
+        "no": "1021",
+        "chinese": "治理",
+        "pinyin": "zhìlǐ",
+        "meaning": "Government"
+    },
+    {
+        "no": "1022",
+        "chinese": "中断",
+        "pinyin": "zhōngduàn",
+        "meaning": "interrupt"
+    },
+    {
+        "no": "1023",
+        "chinese": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "meaning": "Mid-Autumn Festival"
+    },
+    {
+        "no": "1024",
+        "chinese": "中央",
+        "pinyin": "zhōngyāng",
+        "meaning": "center"
+    },
+    {
+        "no": "1025",
+        "chinese": "中药",
+        "pinyin": "zhōng yào",
+        "meaning": "traditional Chinese medicine"
+    },
+    {
+        "no": "1026",
+        "chinese": "终点",
+        "pinyin": "zhōngdiǎn",
+        "meaning": "End"
+    },
+    {
+        "no": "1027",
+        "chinese": "终身",
+        "pinyin": "zhōngshēn",
+        "meaning": "lifelong"
+    },
+    {
+        "no": "1028",
+        "chinese": "终止",
+        "pinyin": "zhōngzhǐ",
+        "meaning": "termination"
+    },
+    {
+        "no": "1029",
+        "chinese": "中毒",
+        "pinyin": "zhòng dú",
+        "meaning": "poisoning; be poisoned"
+    },
+    {
+        "no": "1030",
+        "chinese": "众多",
+        "pinyin": "zhòng duō",
+        "meaning": "multitudinous; numerous; many"
+    },
+    {
+        "no": "1031",
+        "chinese": "周期",
+        "pinyin": "zhōuqī",
+        "meaning": "period cycle"
+    },
+    {
+        "no": "1032",
+        "chinese": "竹子",
+        "pinyin": "zhúzi",
+        "meaning": "Bamboo"
+    },
+    {
+        "no": "1033",
+        "chinese": "主办",
+        "pinyin": "zhǔbàn",
+        "meaning": "Host"
+    },
+    {
+        "no": "1034",
+        "chinese": "主导",
+        "pinyin": "zhǔdǎo",
+        "meaning": "leading"
+    },
+    {
+        "no": "1035",
+        "chinese": "主观",
+        "pinyin": "zhǔguān",
+        "meaning": "subjective"
+    },
+    {
+        "no": "1036",
+        "chinese": "主管",
+        "pinyin": "zhǔguǎn",
+        "meaning": "Executive director"
+    },
+    {
+        "no": "1037",
+        "chinese": "主体",
+        "pinyin": "zhǔ tǐ",
+        "meaning": "main body; main part; principal part; subject"
+    },
+    {
+        "no": "1038",
+        "chinese": "助理",
+        "pinyin": "zhùlǐ",
+        "meaning": "assistant"
+    },
+    {
+        "no": "1039",
+        "chinese": "助手",
+        "pinyin": "zhùshǒu",
+        "meaning": "assistant"
+    },
+    {
+        "no": "1040",
+        "chinese": "注册",
+        "pinyin": "zhùcè",
+        "meaning": "register"
+    },
+    {
+        "no": "1041",
+        "chinese": "注射",
+        "pinyin": "zhùshè",
+        "meaning": "injection"
+    },
+    {
+        "no": "1042",
+        "chinese": "注视",
+        "pinyin": "zhùshì",
+        "meaning": "Gaze"
+    },
+    {
+        "no": "1043",
+        "chinese": "注重",
+        "pinyin": "zhùzhòng",
+        "meaning": "pay attention to"
+    },
+    {
+        "no": "1044",
+        "chinese": "祝贺",
+        "pinyin": "zhùhè",
+        "meaning": "Congratulate"
+    },
+    {
+        "no": "1045",
+        "chinese": "专辑",
+        "pinyin": "zhuān jí",
+        "meaning": "album"
+    },
+    {
+        "no": "1046",
+        "chinese": "专利",
+        "pinyin": "zhuānlì",
+        "meaning": "patent"
+    },
+    {
+        "no": "1047",
+        "chinese": "转化",
+        "pinyin": "zhuǎn huà",
+        "meaning": "change; transform"
+    },
+    {
+        "no": "1048",
+        "chinese": "转换",
+        "pinyin": "zhuǎn huàn",
+        "meaning": "conversion; change; transform; convert"
+    },
+    {
+        "no": "1049",
+        "chinese": "转让",
+        "pinyin": "zhuǎnràng",
+        "meaning": "make over; transfer"
+    },
+    {
+        "no": "1050",
+        "chinese": "转向",
+        "pinyin": "zhuǎn xiàng",
+        "meaning": "turn to; sheer off; change direction"
+    },
+    {
+        "no": "1051",
+        "chinese": "装饰",
+        "pinyin": "zhuāngshì",
+        "meaning": "decorate"
+    },
+    {
+        "no": "1052",
+        "chinese": "撞",
+        "pinyin": "zhuàng",
+        "meaning": "Hit"
+    },
+    {
+        "no": "1053",
+        "chinese": "资本",
+        "pinyin": "zīběn",
+        "meaning": "capital"
+    },
+    {
+        "no": "1054",
+        "chinese": "资产",
+        "pinyin": "zīchǎn",
+        "meaning": "capital; asset"
+    },
+    {
+        "no": "1055",
+        "chinese": "资助",
+        "pinyin": "zīzhù",
+        "meaning": "give financial aid"
+    },
+    {
+        "no": "1056",
+        "chinese": "子弹",
+        "pinyin": "zǐdàn",
+        "meaning": "Bullet"
+    },
+    {
+        "no": "1057",
+        "chinese": "仔细",
+        "pinyin": "zǐxì",
+        "meaning": "careful"
+    },
+    {
+        "no": "1058",
+        "chinese": "紫",
+        "pinyin": "zǐ",
+        "meaning": "purple"
+    },
+    {
+        "no": "1059",
+        "chinese": "自豪",
+        "pinyin": "zìháo",
+        "meaning": "Proud"
+    },
+    {
+        "no": "1060",
+        "chinese": "自杀",
+        "pinyin": "zì shā",
+        "meaning": "suicide; commit suicide"
+    },
+    {
+        "no": "1061",
+        "chinese": "自愿",
+        "pinyin": "zìyuàn",
+        "meaning": "voluntarily"
+    },
+    {
+        "no": "1062",
+        "chinese": "总裁",
+        "pinyin": "zǒngcái",
+        "meaning": "CEO"
+    },
+    {
+        "no": "1063",
+        "chinese": "总数",
+        "pinyin": "zǒng shù",
+        "meaning": "tote; sum; totality"
+    },
+    {
+        "no": "1064",
+        "chinese": "总算",
+        "pinyin": "zǒngsuàn",
+        "meaning": "finally"
+    },
+    {
+        "no": "1065",
+        "chinese": "总体",
+        "pinyin": "zǒng tǐ",
+        "meaning": "overall; total; entire; totality"
+    },
+    {
+        "no": "1066",
+        "chinese": "阻碍",
+        "pinyin": "zǔ'ài",
+        "meaning": "hinder"
+    },
+    {
+        "no": "1067",
+        "chinese": "组织",
+        "pinyin": "zǔzhī",
+        "meaning": "organization"
+    },
+    {
+        "no": "1068",
+        "chinese": "醉",
+        "pinyin": "zuì",
+        "meaning": "drunk"
+    },
+    {
+        "no": "1069",
+        "chinese": "尊敬",
+        "pinyin": "zūnjìng",
+        "meaning": "respect"
+    },
+    {
+        "no": "1070",
+        "chinese": "尊重",
+        "pinyin": "zūnzhòng",
+        "meaning": "respect"
+    },
+    {
+        "no": "1071",
+        "chinese": "遵守",
+        "pinyin": "zūnshǒu",
+        "meaning": "comply with"
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "no": "341",
+        "chinese": "书",
+        "pinyin": "shū",
+        "meaning": "book"
+    },
+    {
+        "no": "342",
+        "chinese": "书包",
+        "pinyin": "shū bāo",
+        "meaning": "school bag"
+    },
+    {
+        "no": "343",
+        "chinese": "书店",
+        "pinyin": "shū diàn",
+        "meaning": "bookstore"
+    },
+    {
+        "no": "344",
+        "chinese": "树",
+        "pinyin": "shù",
+        "meaning": "tree"
+    },
+    {
+        "no": "345",
+        "chinese": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water"
+    },
+    {
+        "no": "346",
+        "chinese": "水果",
+        "pinyin": "shuǐguǒ",
+        "meaning": "Fruits"
+    },
+    {
+        "no": "347",
+        "chinese": "睡",
+        "pinyin": "shuì",
+        "meaning": "sleep"
+    },
+    {
+        "no": "348",
+        "chinese": "睡觉",
+        "pinyin": "shuìjiào",
+        "meaning": "sleep"
+    },
+    {
+        "no": "349",
+        "chinese": "说",
+        "pinyin": "shuō",
+        "meaning": "speak"
+    },
+    {
+        "no": "350",
+        "chinese": "说话",
+        "pinyin": "shuōhuà",
+        "meaning": "talk"
+    },
+    {
+        "no": "351",
+        "chinese": "四",
+        "pinyin": "sì",
+        "meaning": "Four"
+    },
+    {
+        "no": "352",
+        "chinese": "送",
+        "pinyin": "sòng",
+        "meaning": "give"
+    },
+    {
+        "no": "353",
+        "chinese": "岁",
+        "pinyin": "suì",
+        "meaning": "year, age"
+    },
+    {
+        "no": "354",
+        "chinese": "他",
+        "pinyin": "tā",
+        "meaning": "he"
+    },
+    {
+        "no": "355",
+        "chinese": "他们",
+        "pinyin": "tā men",
+        "meaning": "they"
+    },
+    {
+        "no": "356",
+        "chinese": "她",
+        "pinyin": "tā",
+        "meaning": "she"
+    },
+    {
+        "no": "357",
+        "chinese": "她们",
+        "pinyin": "tā men",
+        "meaning": "they"
+    },
+    {
+        "no": "358",
+        "chinese": "太",
+        "pinyin": "tài",
+        "meaning": "too"
+    },
+    {
+        "no": "359",
+        "chinese": "天",
+        "pinyin": "tiān",
+        "meaning": "day"
+    },
+    {
+        "no": "360",
+        "chinese": "天气",
+        "pinyin": "tiānqì",
+        "meaning": "weather"
+    },
+    {
+        "no": "361",
+        "chinese": "听",
+        "pinyin": "tīng",
+        "meaning": "hear"
+    },
+    {
+        "no": "362",
+        "chinese": "听到",
+        "pinyin": "tīng dào",
+        "meaning": "hear"
+    },
+    {
+        "no": "363",
+        "chinese": "听见",
+        "pinyin": "tīng jiàn",
+        "meaning": "hear"
+    },
+    {
+        "no": "364",
+        "chinese": "听写",
+        "pinyin": "tīng xiě",
+        "meaning": "dictation; dictate"
+    },
+    {
+        "no": "365",
+        "chinese": "同学",
+        "pinyin": "tóngxué",
+        "meaning": "Classmate"
+    },
+    {
+        "no": "366",
+        "chinese": "图书馆",
+        "pinyin": "túshūguǎn",
+        "meaning": "Library"
+    },
+    {
+        "no": "367",
+        "chinese": "外",
+        "pinyin": "wài",
+        "meaning": "abroad, outside"
+    },
+    {
+        "no": "368",
+        "chinese": "外边",
+        "pinyin": "wài biān",
+        "meaning": "outside"
+    },
+    {
+        "no": "369",
+        "chinese": "外国",
+        "pinyin": "wài guó",
+        "meaning": "foreign country"
+    },
+    {
+        "no": "370",
+        "chinese": "外语",
+        "pinyin": "wài yǔ",
+        "meaning": "foreign language"
+    },
+    {
+        "no": "371",
+        "chinese": "玩儿",
+        "pinyin": "wánr",
+        "meaning": "play"
+    },
+    {
+        "no": "372",
+        "chinese": "晚",
+        "pinyin": "wǎn",
+        "meaning": "late"
+    },
+    {
+        "no": "373",
+        "chinese": "晚饭",
+        "pinyin": "wǎn fàn",
+        "meaning": "dinner"
+    },
+    {
+        "no": "374",
+        "chinese": "晚上",
+        "pinyin": "wǎnshang",
+        "meaning": "Night"
+    },
+    {
+        "no": "375",
+        "chinese": "网上",
+        "pinyin": "wǎng shàng",
+        "meaning": "online"
+    },
+    {
+        "no": "376",
+        "chinese": "网友",
+        "pinyin": "wǎng yǒu",
+        "meaning": "net friend"
+    },
+    {
+        "no": "377",
+        "chinese": "忘",
+        "pinyin": "wàng",
+        "meaning": "forget"
+    },
+    {
+        "no": "378",
+        "chinese": "忘记",
+        "pinyin": "wàngjì",
+        "meaning": "forget"
+    },
+    {
+        "no": "379",
+        "chinese": "问",
+        "pinyin": "wèn",
+        "meaning": "ask"
+    },
+    {
+        "no": "380",
+        "chinese": "我",
+        "pinyin": "wǒ",
+        "meaning": "I"
+    },
+    {
+        "no": "381",
+        "chinese": "我们",
+        "pinyin": "wǒmen",
+        "meaning": "We"
+    },
+    {
+        "no": "382",
+        "chinese": "五",
+        "pinyin": "wǔ",
+        "meaning": "Five"
+    },
+    {
+        "no": "383",
+        "chinese": "午饭",
+        "pinyin": "wǔ fàn",
+        "meaning": "lunch"
+    },
+    {
+        "no": "384",
+        "chinese": "西",
+        "pinyin": "xī",
+        "meaning": "west"
+    },
+    {
+        "no": "385",
+        "chinese": "西边",
+        "pinyin": "xī biān",
+        "meaning": "west; west side"
+    },
+    {
+        "no": "386",
+        "chinese": "洗",
+        "pinyin": "xǐ",
+        "meaning": "wash"
+    },
+    {
+        "no": "387",
+        "chinese": "洗手间",
+        "pinyin": "xǐshǒujiān",
+        "meaning": "Restroom"
+    },
+    {
+        "no": "388",
+        "chinese": "喜欢",
+        "pinyin": "xǐhuan",
+        "meaning": "like"
+    },
+    {
+        "no": "389",
+        "chinese": "下（名、动）",
+        "pinyin": "xià",
+        "meaning": "below; under; next; go down; get off"
+    },
+    {
+        "no": "390",
+        "chinese": "下班",
+        "pinyin": "xià bān",
+        "meaning": "get off work"
+    },
+    {
+        "no": "391",
+        "chinese": "下边",
+        "pinyin": "xià biān",
+        "meaning": "below; under"
+    },
+    {
+        "no": "392",
+        "chinese": "下车",
+        "pinyin": "xià chē",
+        "meaning": "get off"
+    },
+    {
+        "no": "393",
+        "chinese": "下次",
+        "pinyin": "xià cì",
+        "meaning": "next time"
+    },
+    {
+        "no": "394",
+        "chinese": "下课",
+        "pinyin": "xià kè",
+        "meaning": "finish class"
+    },
+    {
+        "no": "395",
+        "chinese": "下午",
+        "pinyin": "xiàwǔ",
+        "meaning": "Afternoon"
+    },
+    {
+        "no": "396",
+        "chinese": "下雨",
+        "pinyin": "xiàyǔ",
+        "meaning": "rain"
+    },
+    {
+        "no": "397",
+        "chinese": "先",
+        "pinyin": "xiān",
+        "meaning": "before"
+    },
+    {
+        "no": "398",
+        "chinese": "先生",
+        "pinyin": "xiānsheng",
+        "meaning": "Sir"
+    },
+    {
+        "no": "399",
+        "chinese": "现在",
+        "pinyin": "xiànzài",
+        "meaning": "Now"
+    },
+    {
+        "no": "400",
+        "chinese": "想",
+        "pinyin": "xiǎng",
+        "meaning": "think"
+    },
+    {
+        "no": "401",
+        "chinese": "小",
+        "pinyin": "xiǎo",
+        "meaning": "Small"
+    },
+    {
+        "no": "402",
+        "chinese": "小孩儿",
+        "pinyin": "xiǎo háir",
+        "meaning": "child; kid"
+    },
+    {
+        "no": "403",
+        "chinese": "小姐",
+        "pinyin": "xiǎojiě",
+        "meaning": "Miss"
+    },
+    {
+        "no": "404",
+        "chinese": "小朋友",
+        "pinyin": "xiǎo péng yǒu",
+        "meaning": "child; kid"
+    },
+    {
+        "no": "405",
+        "chinese": "小时",
+        "pinyin": "xiǎoshí",
+        "meaning": "hour"
+    },
+    {
+        "no": "406",
+        "chinese": "小学",
+        "pinyin": "xiǎo xué",
+        "meaning": "primary school; elementary schoo"
+    },
+    {
+        "no": "407",
+        "chinese": "小学生",
+        "pinyin": "xiǎo xué shēng",
+        "meaning": "elementary school student"
+    },
+    {
+        "no": "408",
+        "chinese": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh"
+    },
+    {
+        "no": "409",
+        "chinese": "写",
+        "pinyin": "xiě",
+        "meaning": "write"
+    },
+    {
+        "no": "410",
+        "chinese": "谢谢",
+        "pinyin": "xièxie",
+        "meaning": "Thank you"
+    },
+    {
+        "no": "411",
+        "chinese": "新",
+        "pinyin": "xīn",
+        "meaning": "new"
+    },
+    {
+        "no": "412",
+        "chinese": "新年",
+        "pinyin": "xīn nián",
+        "meaning": "New Year"
+    },
+    {
+        "no": "413",
+        "chinese": "星期",
+        "pinyin": "xīngqī",
+        "meaning": "week"
+    },
+    {
+        "no": "414",
+        "chinese": "星期日",
+        "pinyin": "xīng qī rì",
+        "meaning": "Sunday"
+    },
+    {
+        "no": "415",
+        "chinese": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday"
+    },
+    {
+        "no": "416",
+        "chinese": "行",
+        "pinyin": "xíng",
+        "meaning": "That's ok"
+    },
+    {
+        "no": "417",
+        "chinese": "休息",
+        "pinyin": "xiūxi",
+        "meaning": "Rest"
+    },
+    {
+        "no": "418",
+        "chinese": "学",
+        "pinyin": "xué",
+        "meaning": "learn; study"
+    },
+    {
+        "no": "419",
+        "chinese": "学生",
+        "pinyin": "xuésheng",
+        "meaning": "Student"
+    },
+    {
+        "no": "420",
+        "chinese": "学习",
+        "pinyin": "xuéxí",
+        "meaning": "Study"
+    },
+    {
+        "no": "421",
+        "chinese": "学校",
+        "pinyin": "xuéxiào",
+        "meaning": "School"
+    },
+    {
+        "no": "422",
+        "chinese": "学院",
+        "pinyin": "xué yuàn",
+        "meaning": "college; academy"
+    },
+    {
+        "no": "423",
+        "chinese": "要（动）",
+        "pinyin": "yào",
+        "meaning": "want"
+    },
+    {
+        "no": "424",
+        "chinese": "爷爷",
+        "pinyin": "yéye",
+        "meaning": "grandpa"
+    },
+    {
+        "no": "425",
+        "chinese": "也",
+        "pinyin": "yě",
+        "meaning": "also"
+    },
+    {
+        "no": "426",
+        "chinese": "页",
+        "pinyin": "yè",
+        "meaning": "page"
+    },
+    {
+        "no": "427",
+        "chinese": "一",
+        "pinyin": "yī",
+        "meaning": "One"
+    },
+    {
+        "no": "428",
+        "chinese": "衣服",
+        "pinyin": "yīfu",
+        "meaning": "clothes"
+    },
+    {
+        "no": "429",
+        "chinese": "医生",
+        "pinyin": "yīshēng",
+        "meaning": "Doctor"
+    },
+    {
+        "no": "430",
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "meaning": "Hospital"
+    },
+    {
+        "no": "431",
+        "chinese": "一半",
+        "pinyin": "yí bàn",
+        "meaning": "half"
+    },
+    {
+        "no": "432",
+        "chinese": "一会儿",
+        "pinyin": "yíhuìr",
+        "meaning": "A little while"
+    },
+    {
+        "no": "433",
+        "chinese": "一块儿",
+        "pinyin": "yí kuàir",
+        "meaning": "together"
+    },
+    {
+        "no": "434",
+        "chinese": "一下儿",
+        "pinyin": "yí xiàr",
+        "meaning": "a little bit"
+    },
+    {
+        "no": "435",
+        "chinese": "一样",
+        "pinyin": "yíyàng",
+        "meaning": "equally"
+    },
+    {
+        "no": "436",
+        "chinese": "一边",
+        "pinyin": "yìbiān",
+        "meaning": "One side"
+    },
+    {
+        "no": "437",
+        "chinese": "一点儿",
+        "pinyin": "yīdiǎnr",
+        "meaning": "a little bit"
+    },
+    {
+        "no": "438",
+        "chinese": "一起",
+        "pinyin": "yìqǐ",
+        "meaning": "together"
+    },
+    {
+        "no": "439",
+        "chinese": "一些",
+        "pinyin": "yì xiē",
+        "meaning": "some"
+    },
+    {
+        "no": "440",
+        "chinese": "用",
+        "pinyin": "yòng",
+        "meaning": "use"
+    },
+    {
+        "no": "441",
+        "chinese": "有",
+        "pinyin": "yǒu",
+        "meaning": "have"
+    },
+    {
+        "no": "442",
+        "chinese": "有的",
+        "pinyin": "yǒu de",
+        "meaning": "some"
+    },
+    {
+        "no": "443",
+        "chinese": "有名",
+        "pinyin": "yǒumíng",
+        "meaning": "Famous"
+    },
+    {
+        "no": "444",
+        "chinese": "有时候｜有时",
+        "pinyin": "yǒu shí hòu ｜ yǒu shí",
+        "meaning": "sometimes"
+    },
+    {
+        "no": "445",
+        "chinese": "有（一）些",
+        "pinyin": "yǒu （ yì ） xiē",
+        "meaning": "some"
+    },
+    {
+        "no": "446",
+        "chinese": "有用",
+        "pinyin": "yǒu yòng",
+        "meaning": "useful"
+    },
+    {
+        "no": "447",
+        "chinese": "右",
+        "pinyin": "yòu",
+        "meaning": "right"
+    },
+    {
+        "no": "448",
+        "chinese": "右边",
+        "pinyin": "yòubian",
+        "meaning": "Right"
+    },
+    {
+        "no": "449",
+        "chinese": "雨",
+        "pinyin": "yǔ",
+        "meaning": "rain"
+    },
+    {
+        "no": "450",
+        "chinese": "元",
+        "pinyin": "yuán",
+        "meaning": "element; Yuan"
+    },
+    {
+        "no": "451",
+        "chinese": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far"
+    },
+    {
+        "no": "452",
+        "chinese": "月",
+        "pinyin": "yuè",
+        "meaning": "month"
+    },
+    {
+        "no": "453",
+        "chinese": "再",
+        "pinyin": "zài",
+        "meaning": "again"
+    },
+    {
+        "no": "454",
+        "chinese": "再见",
+        "pinyin": "zàijiàn",
+        "meaning": "Bye"
+    },
+    {
+        "no": "455",
+        "chinese": "在",
+        "pinyin": "zài",
+        "meaning": "stay; in process of"
+    },
+    {
+        "no": "456",
+        "chinese": "在家",
+        "pinyin": "zài jiā",
+        "meaning": "at home"
+    },
+    {
+        "no": "457",
+        "chinese": "早",
+        "pinyin": "zǎo",
+        "meaning": "early"
+    },
+    {
+        "no": "458",
+        "chinese": "早饭",
+        "pinyin": "zǎo fàn",
+        "meaning": "breakfast"
+    },
+    {
+        "no": "459",
+        "chinese": "早上",
+        "pinyin": "zǎoshang",
+        "meaning": "Morning"
+    },
+    {
+        "no": "460",
+        "chinese": "怎么",
+        "pinyin": "zěnme",
+        "meaning": "How"
+    },
+    {
+        "no": "461",
+        "chinese": "站（名）",
+        "pinyin": "zhàn",
+        "meaning": "station"
+    },
+    {
+        "no": "462",
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "meaning": "look for"
+    },
+    {
+        "no": "463",
+        "chinese": "找到",
+        "pinyin": "zhǎo dào",
+        "meaning": "find"
+    },
+    {
+        "no": "464",
+        "chinese": "这",
+        "pinyin": "zhè",
+        "meaning": "Here (here)"
+    },
+    {
+        "no": "465",
+        "chinese": "这边",
+        "pinyin": "zhè biān",
+        "meaning": "here"
+    },
+    {
+        "no": "466",
+        "chinese": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here"
+    },
+    {
+        "no": "467",
+        "chinese": "这儿",
+        "pinyin": "zhèr",
+        "meaning": "here"
+    },
+    {
+        "no": "468",
+        "chinese": "这些",
+        "pinyin": "zhè xiē",
+        "meaning": "these"
+    },
+    {
+        "no": "469",
+        "chinese": "着",
+        "pinyin": "zhe",
+        "meaning": "in process of"
+    },
+    {
+        "no": "470",
+        "chinese": "真",
+        "pinyin": "zhēn",
+        "meaning": "really"
+    },
+    {
+        "no": "471",
+        "chinese": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really"
+    },
+    {
+        "no": "472",
+        "chinese": "正（副）",
+        "pinyin": "zhèng",
+        "meaning": "just; exactly"
+    },
+    {
+        "no": "473",
+        "chinese": "正在",
+        "pinyin": "zhèngzài",
+        "meaning": "in process of"
+    },
+    {
+        "no": "474",
+        "chinese": "知道",
+        "pinyin": "zhīdào",
+        "meaning": "know"
+    },
+    {
+        "no": "475",
+        "chinese": "知识",
+        "pinyin": "zhīshi",
+        "meaning": "knowledge"
+    },
+    {
+        "no": "476",
+        "chinese": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle; in"
+    },
+    {
+        "no": "477",
+        "chinese": "中国",
+        "pinyin": "zhōngguó",
+        "meaning": "China"
+    },
+    {
+        "no": "478",
+        "chinese": "中间",
+        "pinyin": "zhōngjiān",
+        "meaning": "Middle"
+    },
+    {
+        "no": "479",
+        "chinese": "中文",
+        "pinyin": "zhōngwén",
+        "meaning": "Chinese"
+    },
+    {
+        "no": "480",
+        "chinese": "中午",
+        "pinyin": "zhōngwǔ",
+        "meaning": "Noon"
+    },
+    {
+        "no": "481",
+        "chinese": "中学",
+        "pinyin": "zhōng xué",
+        "meaning": "middle school"
+    },
+    {
+        "no": "482",
+        "chinese": "中学生",
+        "pinyin": "zhōng xué shēng",
+        "meaning": "middle School student"
+    },
+    {
+        "no": "483",
+        "chinese": "重",
+        "pinyin": "zhòng",
+        "meaning": "heavy"
+    },
+    {
+        "no": "484",
+        "chinese": "重要",
+        "pinyin": "zhòngyào",
+        "meaning": "important"
+    },
+    {
+        "no": "485",
+        "chinese": "住",
+        "pinyin": "zhù",
+        "meaning": "live"
+    },
+    {
+        "no": "486",
+        "chinese": "准备",
+        "pinyin": "zhǔnbèi",
+        "meaning": "Get ready"
+    },
+    {
+        "no": "487",
+        "chinese": "桌子",
+        "pinyin": "zhuōzi",
+        "meaning": "Table"
+    },
+    {
+        "no": "488",
+        "chinese": "字",
+        "pinyin": "zì",
+        "meaning": "word, character"
+    },
+    {
+        "no": "489",
+        "chinese": "子（桌子）",
+        "pinyin": "zi （ zhuō zi ）",
+        "meaning": "noun suffix (table)"
+    },
+    {
+        "no": "490",
+        "chinese": "走",
+        "pinyin": "zǒu",
+        "meaning": "go, walk"
+    },
+    {
+        "no": "491",
+        "chinese": "走路",
+        "pinyin": "zǒu lù",
+        "meaning": "walk"
+    },
+    {
+        "no": "492",
+        "chinese": "最",
+        "pinyin": "zuì",
+        "meaning": "most"
+    },
+    {
+        "no": "493",
+        "chinese": "最好",
+        "pinyin": "zuìhǎo",
+        "meaning": "Best"
+    },
+    {
+        "no": "494",
+        "chinese": "最后",
+        "pinyin": "zuìhòu",
+        "meaning": "Last"
+    },
+    {
+        "no": "495",
+        "chinese": "昨天",
+        "pinyin": "zuótiān",
+        "meaning": "Yesterday"
+    },
+    {
+        "no": "496",
+        "chinese": "左",
+        "pinyin": "zuǒ",
+        "meaning": "left"
+    },
+    {
+        "no": "497",
+        "chinese": "左边",
+        "pinyin": "zuǒbian",
+        "meaning": "left"
+    },
+    {
+        "no": "498",
+        "chinese": "坐",
+        "pinyin": "zuò",
+        "meaning": "sit"
+    },
+    {
+        "no": "499",
+        "chinese": "坐下",
+        "pinyin": "zuò xià",
+        "meaning": "sit down"
+    },
+    {
+        "no": "500",
+        "chinese": "做",
+        "pinyin": "zuò",
+        "meaning": "do"
+    }
+]

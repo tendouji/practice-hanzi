@@ -1,0 +1,974 @@
+[
+    {
+        "no": "650",
+        "chinese": "使",
+        "pinyin": "shǐ",
+        "meaning": "make"
+    },
+    {
+        "no": "651",
+        "chinese": "始终",
+        "pinyin": "shǐzhōng",
+        "meaning": "Throughout"
+    },
+    {
+        "no": "652",
+        "chinese": "世纪",
+        "pinyin": "shìjì",
+        "meaning": "century"
+    },
+    {
+        "no": "653",
+        "chinese": "世界",
+        "pinyin": "shìjiè",
+        "meaning": "world"
+    },
+    {
+        "no": "654",
+        "chinese": "世界杯",
+        "pinyin": "shì jiè bēi",
+        "meaning": "World Cup"
+    },
+    {
+        "no": "655",
+        "chinese": "市场",
+        "pinyin": "shìchǎng",
+        "meaning": "market"
+    },
+    {
+        "no": "656",
+        "chinese": "事故",
+        "pinyin": "shìgù",
+        "meaning": "Accident"
+    },
+    {
+        "no": "657",
+        "chinese": "事件",
+        "pinyin": "shìjiàn",
+        "meaning": "Event"
+    },
+    {
+        "no": "658",
+        "chinese": "事实",
+        "pinyin": "shìshí",
+        "meaning": "Fact"
+    },
+    {
+        "no": "659",
+        "chinese": "事实上",
+        "pinyin": "shì shí shàng",
+        "meaning": "in fact; actually"
+    },
+    {
+        "no": "660",
+        "chinese": "事业",
+        "pinyin": "shìyè",
+        "meaning": "career"
+    },
+    {
+        "no": "661",
+        "chinese": "试题",
+        "pinyin": "shì tí",
+        "meaning": "test questions"
+    },
+    {
+        "no": "662",
+        "chinese": "试验",
+        "pinyin": "shìyàn",
+        "meaning": "test"
+    },
+    {
+        "no": "663",
+        "chinese": "适合",
+        "pinyin": "shìhé",
+        "meaning": "Fit"
+    },
+    {
+        "no": "664",
+        "chinese": "适应",
+        "pinyin": "shìyìng",
+        "meaning": "Adapt"
+    },
+    {
+        "no": "665",
+        "chinese": "适用",
+        "pinyin": "shì yòng",
+        "meaning": "be applicable; be suitable"
+    },
+    {
+        "no": "666",
+        "chinese": "室",
+        "pinyin": "shì",
+        "meaning": "room"
+    },
+    {
+        "no": "667",
+        "chinese": "收费",
+        "pinyin": "shōu fèi",
+        "meaning": "collect fees; charge"
+    },
+    {
+        "no": "668",
+        "chinese": "收看",
+        "pinyin": "shōu kàn",
+        "meaning": "watch"
+    },
+    {
+        "no": "669",
+        "chinese": "收听",
+        "pinyin": "shōu tīng",
+        "meaning": "listen to; listen in"
+    },
+    {
+        "no": "670",
+        "chinese": "收音机",
+        "pinyin": "shōuyīnjī",
+        "meaning": "radio"
+    },
+    {
+        "no": "671",
+        "chinese": "手续",
+        "pinyin": "shǒuxù",
+        "meaning": "procedures"
+    },
+    {
+        "no": "672",
+        "chinese": "手指",
+        "pinyin": "shǒuzhǐ",
+        "meaning": "finger"
+    },
+    {
+        "no": "673",
+        "chinese": "首都",
+        "pinyin": "shǒudū",
+        "meaning": "capital"
+    },
+    {
+        "no": "674",
+        "chinese": "首先",
+        "pinyin": "shǒuxiān",
+        "meaning": "First"
+    },
+    {
+        "no": "675",
+        "chinese": "受",
+        "pinyin": "shòu",
+        "meaning": "be subjecte; suffer; receive; accept; stand"
+    },
+    {
+        "no": "676",
+        "chinese": "受伤",
+        "pinyin": "shòushāng",
+        "meaning": "Injured"
+    },
+    {
+        "no": "677",
+        "chinese": "书架",
+        "pinyin": "shūjià",
+        "meaning": "bookshelf"
+    },
+    {
+        "no": "678",
+        "chinese": "输",
+        "pinyin": "shū",
+        "meaning": "lose"
+    },
+    {
+        "no": "679",
+        "chinese": "输入",
+        "pinyin": "shūrù",
+        "meaning": "import; input"
+    },
+    {
+        "no": "680",
+        "chinese": "熟人",
+        "pinyin": "shú rén",
+        "meaning": "acquaintance"
+    },
+    {
+        "no": "681",
+        "chinese": "属",
+        "pinyin": "shǔ",
+        "meaning": "be born in the year of (one of the twelve animals); belong"
+    },
+    {
+        "no": "682",
+        "chinese": "属于",
+        "pinyin": "shǔyú",
+        "meaning": "belong to"
+    },
+    {
+        "no": "683",
+        "chinese": "束",
+        "pinyin": "shù",
+        "meaning": "beam"
+    },
+    {
+        "no": "684",
+        "chinese": "数量",
+        "pinyin": "shùliàng",
+        "meaning": "quantity"
+    },
+    {
+        "no": "685",
+        "chinese": "双",
+        "pinyin": "shuāng",
+        "meaning": "double"
+    },
+    {
+        "no": "686",
+        "chinese": "双方",
+        "pinyin": "shuāngfāng",
+        "meaning": "both sides"
+    },
+    {
+        "no": "687",
+        "chinese": "思想",
+        "pinyin": "sīxiǎng",
+        "meaning": "thought"
+    },
+    {
+        "no": "688",
+        "chinese": "死",
+        "pinyin": "sǐ",
+        "meaning": "die"
+    },
+    {
+        "no": "689",
+        "chinese": "速度",
+        "pinyin": "sùdù",
+        "meaning": "speed"
+    },
+    {
+        "no": "690",
+        "chinese": "随",
+        "pinyin": "suí",
+        "meaning": "follow; comply with; adapt"
+    },
+    {
+        "no": "691",
+        "chinese": "所（名、量）",
+        "pinyin": "suǒ",
+        "meaning": "place; office; spot; (measure word)"
+    },
+    {
+        "no": "692",
+        "chinese": "所长",
+        "pinyin": "suǒ zhǎng",
+        "meaning": "superintendent"
+    },
+    {
+        "no": "693",
+        "chinese": "台",
+        "pinyin": "tái",
+        "meaning": "platform"
+    },
+    {
+        "no": "694",
+        "chinese": "谈",
+        "pinyin": "tán",
+        "meaning": "talk"
+    },
+    {
+        "no": "695",
+        "chinese": "谈话",
+        "pinyin": "tán huà",
+        "meaning": "conversation; talk; chat"
+    },
+    {
+        "no": "696",
+        "chinese": "谈判",
+        "pinyin": "tánpàn",
+        "meaning": "negotiation"
+    },
+    {
+        "no": "697",
+        "chinese": "汤",
+        "pinyin": "tāng",
+        "meaning": "soup"
+    },
+    {
+        "no": "698",
+        "chinese": "糖",
+        "pinyin": "táng",
+        "meaning": "sugar"
+    },
+    {
+        "no": "699",
+        "chinese": "特色",
+        "pinyin": "tèsè",
+        "meaning": "characteristic"
+    },
+    {
+        "no": "700",
+        "chinese": "提前",
+        "pinyin": "tíqián",
+        "meaning": "Advance"
+    },
+    {
+        "no": "701",
+        "chinese": "提问",
+        "pinyin": "tíwèn",
+        "meaning": "Put questions to"
+    },
+    {
+        "no": "702",
+        "chinese": "题目",
+        "pinyin": "tímù",
+        "meaning": "subject"
+    },
+    {
+        "no": "703",
+        "chinese": "体会",
+        "pinyin": "tǐhuì",
+        "meaning": "Experience"
+    },
+    {
+        "no": "704",
+        "chinese": "体现",
+        "pinyin": "tǐxiàn",
+        "meaning": "Reflect"
+    },
+    {
+        "no": "705",
+        "chinese": "体验",
+        "pinyin": "tǐyàn",
+        "meaning": "experience; taste"
+    },
+    {
+        "no": "706",
+        "chinese": "天空",
+        "pinyin": "tiānkōng",
+        "meaning": "sky"
+    },
+    {
+        "no": "707",
+        "chinese": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet"
+    },
+    {
+        "no": "708",
+        "chinese": "调",
+        "pinyin": "tiáo",
+        "meaning": "suit well; mix; adjust; fit in perfectly"
+    },
+    {
+        "no": "709",
+        "chinese": "调整",
+        "pinyin": "tiáozhěng",
+        "meaning": "adjustment"
+    },
+    {
+        "no": "710",
+        "chinese": "跳",
+        "pinyin": "tiào",
+        "meaning": "jump; leap; skip; bounce"
+    },
+    {
+        "no": "711",
+        "chinese": "跳高",
+        "pinyin": "tiào gāo",
+        "meaning": "high jump"
+    },
+    {
+        "no": "712",
+        "chinese": "跳舞",
+        "pinyin": "tiàowǔ",
+        "meaning": "dance"
+    },
+    {
+        "no": "713",
+        "chinese": "跳远",
+        "pinyin": "tiào yuǎn",
+        "meaning": "long jump; broad jump"
+    },
+    {
+        "no": "714",
+        "chinese": "铁",
+        "pinyin": "tiě",
+        "meaning": "iron"
+    },
+    {
+        "no": "715",
+        "chinese": "铁路",
+        "pinyin": "tiě lù",
+        "meaning": "railway; railroad"
+    },
+    {
+        "no": "716",
+        "chinese": "听力",
+        "pinyin": "tīng lì",
+        "meaning": "hearing; aural comprehension"
+    },
+    {
+        "no": "717",
+        "chinese": "听众",
+        "pinyin": "tīng zhòng",
+        "meaning": "audience; listeners"
+    },
+    {
+        "no": "718",
+        "chinese": "停止",
+        "pinyin": "tíng zhǐ",
+        "meaning": "stop; cease; suspend; call off; halt"
+    },
+    {
+        "no": "719",
+        "chinese": "通常",
+        "pinyin": "tōngcháng",
+        "meaning": "usually"
+    },
+    {
+        "no": "720",
+        "chinese": "通信",
+        "pinyin": "tōng xìn",
+        "meaning": "communicate; correspond"
+    },
+    {
+        "no": "721",
+        "chinese": "同意",
+        "pinyin": "tóngyì",
+        "meaning": "Agree"
+    },
+    {
+        "no": "722",
+        "chinese": "痛（形）",
+        "pinyin": "tòng",
+        "meaning": "sore; painful; sad"
+    },
+    {
+        "no": "723",
+        "chinese": "痛苦",
+        "pinyin": "tòngkǔ",
+        "meaning": "Pain"
+    },
+    {
+        "no": "724",
+        "chinese": "头（形）",
+        "pinyin": "tóu",
+        "meaning": "lead; head"
+    },
+    {
+        "no": "725",
+        "chinese": "头脑",
+        "pinyin": "tóu nǎo",
+        "meaning": "mind; brain"
+    },
+    {
+        "no": "726",
+        "chinese": "突出",
+        "pinyin": "tūchū",
+        "meaning": "prominent"
+    },
+    {
+        "no": "727",
+        "chinese": "突然",
+        "pinyin": "tūrán",
+        "meaning": "suddenly"
+    },
+    {
+        "no": "728",
+        "chinese": "图",
+        "pinyin": "tú",
+        "meaning": "picture; chart; drawing; scheme; intention"
+    },
+    {
+        "no": "729",
+        "chinese": "图画",
+        "pinyin": "tú huà",
+        "meaning": "drawing; picture; painting"
+    },
+    {
+        "no": "730",
+        "chinese": "土（名）",
+        "pinyin": "tǔ",
+        "meaning": "soil; earth; land; ground"
+    },
+    {
+        "no": "731",
+        "chinese": "团",
+        "pinyin": "tuán",
+        "meaning": "group"
+    },
+    {
+        "no": "732",
+        "chinese": "团结",
+        "pinyin": "tuánjié",
+        "meaning": "Unite"
+    },
+    {
+        "no": "733",
+        "chinese": "团体",
+        "pinyin": "tuántǐ",
+        "meaning": "group"
+    },
+    {
+        "no": "734",
+        "chinese": "推动",
+        "pinyin": "tuī dòng",
+        "meaning": "promote; push forward; give impetus to"
+    },
+    {
+        "no": "735",
+        "chinese": "推广",
+        "pinyin": "tuīguǎng",
+        "meaning": "Extension"
+    },
+    {
+        "no": "736",
+        "chinese": "推进",
+        "pinyin": "tuī jìn",
+        "meaning": "advance; carry forward; push on; give impetus to"
+    },
+    {
+        "no": "737",
+        "chinese": "推开",
+        "pinyin": "tuī kāi",
+        "meaning": "push away"
+    },
+    {
+        "no": "738",
+        "chinese": "退",
+        "pinyin": "tuì",
+        "meaning": "retreat"
+    },
+    {
+        "no": "739",
+        "chinese": "退出",
+        "pinyin": "tuì chū",
+        "meaning": "drop out; quit; withdraw"
+    },
+    {
+        "no": "740",
+        "chinese": "退休",
+        "pinyin": "tuìxiū",
+        "meaning": "retire"
+    },
+    {
+        "no": "741",
+        "chinese": "外交",
+        "pinyin": "wàijiāo",
+        "meaning": "diplomacy"
+    },
+    {
+        "no": "742",
+        "chinese": "外面",
+        "pinyin": "wài miàn",
+        "meaning": "outside; outdoors; outward appearance"
+    },
+    {
+        "no": "743",
+        "chinese": "外文",
+        "pinyin": "wài wén",
+        "meaning": "foreign language"
+    },
+    {
+        "no": "744",
+        "chinese": "完美",
+        "pinyin": "wánměi",
+        "meaning": "perfect"
+    },
+    {
+        "no": "745",
+        "chinese": "完善",
+        "pinyin": "wánshàn",
+        "meaning": "perfect, consummate"
+    },
+    {
+        "no": "746",
+        "chinese": "完整",
+        "pinyin": "wánzhěng",
+        "meaning": "complete"
+    },
+    {
+        "no": "747",
+        "chinese": "玩具",
+        "pinyin": "wánjù",
+        "meaning": "Toys"
+    },
+    {
+        "no": "748",
+        "chinese": "往往",
+        "pinyin": "wǎngwǎng",
+        "meaning": "Often"
+    },
+    {
+        "no": "749",
+        "chinese": "危害",
+        "pinyin": "wēihài",
+        "meaning": "Harm"
+    },
+    {
+        "no": "750",
+        "chinese": "危险",
+        "pinyin": "wēixiǎn",
+        "meaning": "danger"
+    },
+    {
+        "no": "751",
+        "chinese": "为（动）",
+        "pinyin": "wéi",
+        "meaning": "act as; become; be; mean"
+    },
+    {
+        "no": "752",
+        "chinese": "为（介）",
+        "pinyin": "wèi",
+        "meaning": "(preposition)"
+    },
+    {
+        "no": "753",
+        "chinese": "围",
+        "pinyin": "wéi",
+        "meaning": "enclose; surround; circle"
+    },
+    {
+        "no": "754",
+        "chinese": "伟大",
+        "pinyin": "wěidà",
+        "meaning": "great"
+    },
+    {
+        "no": "755",
+        "chinese": "卫生",
+        "pinyin": "wèi shēng",
+        "meaning": "hygiene; health; sanitation"
+    },
+    {
+        "no": "756",
+        "chinese": "卫生间",
+        "pinyin": "wèishēngjiān",
+        "meaning": "toilet"
+    },
+    {
+        "no": "757",
+        "chinese": "为了",
+        "pinyin": "wèile",
+        "meaning": "in order to"
+    },
+    {
+        "no": "758",
+        "chinese": "温暖",
+        "pinyin": "wēnnuǎn",
+        "meaning": "warm"
+    },
+    {
+        "no": "759",
+        "chinese": "文化",
+        "pinyin": "wénhuà",
+        "meaning": "Culture"
+    },
+    {
+        "no": "760",
+        "chinese": "文件",
+        "pinyin": "wénjiàn",
+        "meaning": "file"
+    },
+    {
+        "no": "761",
+        "chinese": "文明",
+        "pinyin": "wénmíng",
+        "meaning": "civilization"
+    },
+    {
+        "no": "762",
+        "chinese": "文学",
+        "pinyin": "wénxué",
+        "meaning": "literature"
+    },
+    {
+        "no": "763",
+        "chinese": "文章",
+        "pinyin": "wénzhāng",
+        "meaning": "Article"
+    },
+    {
+        "no": "764",
+        "chinese": "文字",
+        "pinyin": "wénzì",
+        "meaning": "writing, character"
+    },
+    {
+        "no": "765",
+        "chinese": "握手",
+        "pinyin": "wòshǒu",
+        "meaning": "Handshake"
+    },
+    {
+        "no": "766",
+        "chinese": "屋子",
+        "pinyin": "wūzi",
+        "meaning": "House"
+    },
+    {
+        "no": "767",
+        "chinese": "武器",
+        "pinyin": "wǔqì",
+        "meaning": "arms"
+    },
+    {
+        "no": "768",
+        "chinese": "武术",
+        "pinyin": "wǔshù",
+        "meaning": "A martial art"
+    },
+    {
+        "no": "769",
+        "chinese": "舞台",
+        "pinyin": "wǔ tái",
+        "meaning": "stage; arena"
+    },
+    {
+        "no": "770",
+        "chinese": "西部",
+        "pinyin": "xī bù",
+        "meaning": "west"
+    },
+    {
+        "no": "771",
+        "chinese": "希望",
+        "pinyin": "xīwàng",
+        "meaning": "hope"
+    },
+    {
+        "no": "772",
+        "chinese": "系",
+        "pinyin": "xì",
+        "meaning": "department"
+    },
+    {
+        "no": "773",
+        "chinese": "下来",
+        "pinyin": "xià lái",
+        "meaning": "come down; get down"
+    },
+    {
+        "no": "774",
+        "chinese": "下面",
+        "pinyin": "xià miàn",
+        "meaning": "below; under; next"
+    },
+    {
+        "no": "775",
+        "chinese": "下去",
+        "pinyin": "xià qù",
+        "meaning": "go down; descend; go on; continue"
+    },
+    {
+        "no": "776",
+        "chinese": "先进",
+        "pinyin": "xiānjìn",
+        "meaning": "advanced"
+    },
+    {
+        "no": "777",
+        "chinese": "显得",
+        "pinyin": "xiǎnde",
+        "meaning": "Appear"
+    },
+    {
+        "no": "778",
+        "chinese": "显然",
+        "pinyin": "xiǎnrán",
+        "meaning": "Obviously"
+    },
+    {
+        "no": "779",
+        "chinese": "显示",
+        "pinyin": "xiǎnshì",
+        "meaning": "display"
+    },
+    {
+        "no": "780",
+        "chinese": "现场",
+        "pinyin": "xiànchǎng",
+        "meaning": "scene"
+    },
+    {
+        "no": "781",
+        "chinese": "现代",
+        "pinyin": "xiàndài",
+        "meaning": "modern"
+    },
+    {
+        "no": "782",
+        "chinese": "现金",
+        "pinyin": "xiànjīn",
+        "meaning": "cash"
+    },
+    {
+        "no": "783",
+        "chinese": "现实",
+        "pinyin": "xiànshí",
+        "meaning": "reality"
+    },
+    {
+        "no": "784",
+        "chinese": "现象",
+        "pinyin": "xiànxiàng",
+        "meaning": "phenomenon"
+    },
+    {
+        "no": "785",
+        "chinese": "线",
+        "pinyin": "xiàn",
+        "meaning": "thread; string; wire; line; route"
+    },
+    {
+        "no": "786",
+        "chinese": "相比",
+        "pinyin": "xiāng bǐ",
+        "meaning": "compare; compare to"
+    },
+    {
+        "no": "787",
+        "chinese": "相当",
+        "pinyin": "xiāngdāng",
+        "meaning": "Quite"
+    },
+    {
+        "no": "788",
+        "chinese": "相关",
+        "pinyin": "xiāngguān",
+        "meaning": "correlate"
+    },
+    {
+        "no": "789",
+        "chinese": "相互",
+        "pinyin": "xiāng hù",
+        "meaning": "mutual; reciprocal; each other"
+    },
+    {
+        "no": "790",
+        "chinese": "相似",
+        "pinyin": "xiāngsì",
+        "meaning": "Be similar"
+    },
+    {
+        "no": "791",
+        "chinese": "香",
+        "pinyin": "xiāng",
+        "meaning": "fragrant"
+    },
+    {
+        "no": "792",
+        "chinese": "香蕉",
+        "pinyin": "xiāngjiāo",
+        "meaning": "Banana"
+    },
+    {
+        "no": "793",
+        "chinese": "消费",
+        "pinyin": "xiāofèi",
+        "meaning": "consumption"
+    },
+    {
+        "no": "794",
+        "chinese": "消失",
+        "pinyin": "xiāoshī",
+        "meaning": "disappear"
+    },
+    {
+        "no": "795",
+        "chinese": "消息",
+        "pinyin": "xiāoxi",
+        "meaning": "message"
+    },
+    {
+        "no": "796",
+        "chinese": "效果",
+        "pinyin": "xiàoguǒ",
+        "meaning": "Effect"
+    },
+    {
+        "no": "797",
+        "chinese": "写作",
+        "pinyin": "xiězuò",
+        "meaning": "writing"
+    },
+    {
+        "no": "798",
+        "chinese": "血",
+        "pinyin": "xuè",
+        "meaning": "blood"
+    },
+    {
+        "no": "799",
+        "chinese": "心",
+        "pinyin": "xīn",
+        "meaning": "heart; feeling; centre; core"
+    },
+    {
+        "no": "800",
+        "chinese": "信（动）",
+        "pinyin": "xìn",
+        "meaning": "believe; trust"
+    },
+    {
+        "no": "801",
+        "chinese": "信封",
+        "pinyin": "xìnfēng",
+        "meaning": "envelope"
+    },
+    {
+        "no": "802",
+        "chinese": "信任",
+        "pinyin": "xìnrèn",
+        "meaning": "trust"
+    },
+    {
+        "no": "803",
+        "chinese": "行李",
+        "pinyin": "xíng lǐ",
+        "meaning": "luggage; baggage"
+    },
+    {
+        "no": "804",
+        "chinese": "形成",
+        "pinyin": "xíngchéng",
+        "meaning": "formation"
+    },
+    {
+        "no": "805",
+        "chinese": "形式",
+        "pinyin": "xíngshì",
+        "meaning": "form"
+    },
+    {
+        "no": "806",
+        "chinese": "形象",
+        "pinyin": "xíngxiàng",
+        "meaning": "image"
+    },
+    {
+        "no": "807",
+        "chinese": "形状",
+        "pinyin": "xíngzhuàng",
+        "meaning": "shape"
+    },
+    {
+        "no": "808",
+        "chinese": "幸福",
+        "pinyin": "xìngfú",
+        "meaning": "happiness"
+    },
+    {
+        "no": "809",
+        "chinese": "幸运",
+        "pinyin": "xìngyùn",
+        "meaning": "Lucky "
+    },
+    {
+        "no": "810",
+        "chinese": "性（积极性）",
+        "pinyin": "xìng （jī jí xìng）",
+        "meaning": "as a suffix (positivity)"
+    },
+    {
+        "no": "811",
+        "chinese": "性别",
+        "pinyin": "xìngbié",
+        "meaning": "Gender"
+    }
+]

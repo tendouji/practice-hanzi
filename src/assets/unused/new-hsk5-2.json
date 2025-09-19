@@ -1,0 +1,920 @@
+[
+    {
+        "no": "154",
+        "chinese": "打扮",
+        "pinyin": "dǎban",
+        "meaning": "dress up"
+    },
+    {
+        "no": "155",
+        "chinese": "打包",
+        "pinyin": "dǎbāo",
+        "meaning": "Pack"
+    },
+    {
+        "no": "156",
+        "chinese": "打击",
+        "pinyin": "dǎjī",
+        "meaning": "strike"
+    },
+    {
+        "no": "157",
+        "chinese": "打架",
+        "pinyin": "dǎjià",
+        "meaning": "Fight"
+    },
+    {
+        "no": "158",
+        "chinese": "打扰",
+        "pinyin": "dǎrǎo",
+        "meaning": "Disturb"
+    },
+    {
+        "no": "159",
+        "chinese": "大胆",
+        "pinyin": "dà dǎn",
+        "meaning": "bold; daring; audacious; audacity"
+    },
+    {
+        "no": "160",
+        "chinese": "大都",
+        "pinyin": "dà dōu",
+        "meaning": "for the most part; mostly"
+    },
+    {
+        "no": "161",
+        "chinese": "大纲",
+        "pinyin": "dà gāng",
+        "meaning": "outline; main point; compendium"
+    },
+    {
+        "no": "162",
+        "chinese": "大伙儿",
+        "pinyin": "dàhuǒr",
+        "meaning": "you all; everybody"
+    },
+    {
+        "no": "163",
+        "chinese": "大奖赛",
+        "pinyin": "dà jiǎng sài",
+        "meaning": "grand prix"
+    },
+    {
+        "no": "164",
+        "chinese": "大脑",
+        "pinyin": "dà nǎo",
+        "meaning": "cerebrum; brain"
+    },
+    {
+        "no": "165",
+        "chinese": "大事",
+        "pinyin": "dà shì",
+        "meaning": "event; in a big way"
+    },
+    {
+        "no": "166",
+        "chinese": "大厅",
+        "pinyin": "dà tīng",
+        "meaning": "hall"
+    },
+    {
+        "no": "167",
+        "chinese": "大象",
+        "pinyin": "dàxiàng",
+        "meaning": "Elephant"
+    },
+    {
+        "no": "168",
+        "chinese": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "panda; giant panda"
+    },
+    {
+        "no": "169",
+        "chinese": "大于",
+        "pinyin": "dà yú",
+        "meaning": "be greater than; more than"
+    },
+    {
+        "no": "170",
+        "chinese": "大致",
+        "pinyin": "dàzhì",
+        "meaning": "roughly"
+    },
+    {
+        "no": "171",
+        "chinese": "呆",
+        "pinyin": "dāi",
+        "meaning": "stay"
+    },
+    {
+        "no": "172",
+        "chinese": "待",
+        "pinyin": "dāi",
+        "meaning": "stay"
+    },
+    {
+        "no": "173",
+        "chinese": "代价",
+        "pinyin": "dàijià",
+        "meaning": "cost"
+    },
+    {
+        "no": "174",
+        "chinese": "代理",
+        "pinyin": "dàilǐ",
+        "meaning": "agent"
+    },
+    {
+        "no": "175",
+        "chinese": "带有",
+        "pinyin": "dài yǒu",
+        "meaning": "with; have; bear"
+    },
+    {
+        "no": "176",
+        "chinese": "贷款",
+        "pinyin": "dàikuǎn",
+        "meaning": "extend credit to; provide a loan"
+    },
+    {
+        "no": "177",
+        "chinese": "单一",
+        "pinyin": "dān yī",
+        "meaning": "single; unitary; sole"
+    },
+    {
+        "no": "178",
+        "chinese": "胆",
+        "pinyin": "dǎn",
+        "meaning": "courage; gut; bravery; gallbladder"
+    },
+    {
+        "no": "179",
+        "chinese": "胆小",
+        "pinyin": "dǎn xiǎo",
+        "meaning": "timid; cowardly"
+    },
+    {
+        "no": "180",
+        "chinese": "蛋糕",
+        "pinyin": "dàngāo",
+        "meaning": "Cake"
+    },
+    {
+        "no": "181",
+        "chinese": "当场",
+        "pinyin": "dāngchǎng",
+        "meaning": "On the spot"
+    },
+    {
+        "no": "182",
+        "chinese": "当代",
+        "pinyin": "dāngdài",
+        "meaning": "Contemporary"
+    },
+    {
+        "no": "183",
+        "chinese": "当年",
+        "pinyin": "dāng nián",
+        "meaning": "in those years; in those days"
+    },
+    {
+        "no": "184",
+        "chinese": "当前",
+        "pinyin": "dāngqián",
+        "meaning": "current"
+    },
+    {
+        "no": "185",
+        "chinese": "当选",
+        "pinyin": "dāngxuǎn",
+        "meaning": "be elected; come in"
+    },
+    {
+        "no": "186",
+        "chinese": "挡",
+        "pinyin": "dǎng",
+        "meaning": "block"
+    },
+    {
+        "no": "187",
+        "chinese": "到来",
+        "pinyin": "dào lái",
+        "meaning": "arrival; advent"
+    },
+    {
+        "no": "188",
+        "chinese": "倒是",
+        "pinyin": "dào shì",
+        "meaning": "on the contrary; contrariwise; actually"
+    },
+    {
+        "no": "189",
+        "chinese": "道德",
+        "pinyin": "dàodé",
+        "meaning": "Morality"
+    },
+    {
+        "no": "190",
+        "chinese": "得了",
+        "pinyin": "dé le",
+        "meaning": "stop it; hold it; got"
+    },
+    {
+        "no": "191",
+        "chinese": "得以",
+        "pinyin": "dé yǐ",
+        "meaning": "be able to"
+    },
+    {
+        "no": "192",
+        "chinese": "等候",
+        "pinyin": "děnghòu",
+        "meaning": "Wait"
+    },
+    {
+        "no": "193",
+        "chinese": "等级",
+        "pinyin": "děngjí",
+        "meaning": "grade; rank"
+    },
+    {
+        "no": "194",
+        "chinese": "低于",
+        "pinyin": "dī yú",
+        "meaning": "below; under"
+    },
+    {
+        "no": "195",
+        "chinese": "地带",
+        "pinyin": "dì dài",
+        "meaning": "zone; district; region"
+    },
+    {
+        "no": "196",
+        "chinese": "地形",
+        "pinyin": "dì xíng",
+        "meaning": "terrain; topography; orographic"
+    },
+    {
+        "no": "197",
+        "chinese": "地震",
+        "pinyin": "dìzhèn",
+        "meaning": "earthquake"
+    },
+    {
+        "no": "198",
+        "chinese": "递",
+        "pinyin": "dì",
+        "meaning": "Delivery"
+    },
+    {
+        "no": "199",
+        "chinese": "递给",
+        "pinyin": "dì gěi",
+        "meaning": "hand over; pass on"
+    },
+    {
+        "no": "200",
+        "chinese": "典礼",
+        "pinyin": "diǎnlǐ",
+        "meaning": "Ceremony"
+    },
+    {
+        "no": "201",
+        "chinese": "点燃",
+        "pinyin": "diǎn rán",
+        "meaning": "light; ignite; kindle"
+    },
+    {
+        "no": "202",
+        "chinese": "电池",
+        "pinyin": "diànchí",
+        "meaning": "Battery"
+    },
+    {
+        "no": "203",
+        "chinese": "电饭锅",
+        "pinyin": "diàn fàn guō",
+        "meaning": "rice cooker"
+    },
+    {
+        "no": "204",
+        "chinese": "电子版",
+        "pinyin": "diàn zǐ bǎn",
+        "meaning": "electronic edition"
+    },
+    {
+        "no": "205",
+        "chinese": "调动",
+        "pinyin": "diàodòng",
+        "meaning": "transfer"
+    },
+    {
+        "no": "206",
+        "chinese": "丢",
+        "pinyin": "diū",
+        "meaning": "lose"
+    },
+    {
+        "no": "207",
+        "chinese": "动机",
+        "pinyin": "dòngjī",
+        "meaning": "motivation"
+    },
+    {
+        "no": "208",
+        "chinese": "动手",
+        "pinyin": "dòngshǒu",
+        "meaning": "DIY"
+    },
+    {
+        "no": "209",
+        "chinese": "动态",
+        "pinyin": "dòngtài",
+        "meaning": "dynamic"
+    },
+    {
+        "no": "210",
+        "chinese": "动员",
+        "pinyin": "dòngyuán",
+        "meaning": "mobilization"
+    },
+    {
+        "no": "211",
+        "chinese": "冻",
+        "pinyin": "dòng",
+        "meaning": "freeze"
+    },
+    {
+        "no": "212",
+        "chinese": "洞",
+        "pinyin": "dòng",
+        "meaning": "hole"
+    },
+    {
+        "no": "213",
+        "chinese": "豆制品",
+        "pinyin": "dòu zhì pǐn",
+        "meaning": "bean products"
+    },
+    {
+        "no": "214",
+        "chinese": "毒",
+        "pinyin": "dú",
+        "meaning": "poison; toxin; narcotics; poisonous"
+    },
+    {
+        "no": "215",
+        "chinese": "堆",
+        "pinyin": "duī",
+        "meaning": "heap"
+    },
+    {
+        "no": "216",
+        "chinese": "对立",
+        "pinyin": "duìlì",
+        "meaning": "Opposition"
+    },
+    {
+        "no": "217",
+        "chinese": "对应",
+        "pinyin": "duìyìng",
+        "meaning": "Corresponding"
+    },
+    {
+        "no": "218",
+        "chinese": "吨",
+        "pinyin": "dūn",
+        "meaning": "ton"
+    },
+    {
+        "no": "219",
+        "chinese": "朵",
+        "pinyin": "duǒ",
+        "meaning": "classifier of flower"
+    },
+    {
+        "no": "220",
+        "chinese": "躲",
+        "pinyin": "duǒ",
+        "meaning": "hide; avoid; dodge"
+    },
+    {
+        "no": "221",
+        "chinese": "儿女",
+        "pinyin": "ér nǚ",
+        "meaning": "sons and daughters; children"
+    },
+    {
+        "no": "222",
+        "chinese": "耳朵",
+        "pinyin": "ěrduo",
+        "meaning": "Ears"
+    },
+    {
+        "no": "223",
+        "chinese": "二维码",
+        "pinyin": "èr wéi mǎ",
+        "meaning": "QR code"
+    },
+    {
+        "no": "224",
+        "chinese": "发布",
+        "pinyin": "fābù",
+        "meaning": "Release"
+    },
+    {
+        "no": "225",
+        "chinese": "发觉",
+        "pinyin": "fājué",
+        "meaning": "find"
+    },
+    {
+        "no": "226",
+        "chinese": "发射",
+        "pinyin": "fāshè",
+        "meaning": "launch"
+    },
+    {
+        "no": "227",
+        "chinese": "发行",
+        "pinyin": "fāxíng",
+        "meaning": "issue"
+    },
+    {
+        "no": "228",
+        "chinese": "罚",
+        "pinyin": "fá",
+        "meaning": "punish; penalize; punishment; retribution"
+    },
+    {
+        "no": "229",
+        "chinese": "罚款",
+        "pinyin": "fákuǎn",
+        "meaning": "forfeit; amerce; fine"
+    },
+    {
+        "no": "230",
+        "chinese": "法规",
+        "pinyin": "fǎ guī",
+        "meaning": "rule of law; statute; law"
+    },
+    {
+        "no": "231",
+        "chinese": "法制",
+        "pinyin": "fǎ zhì",
+        "meaning": "legal system"
+    },
+    {
+        "no": "232",
+        "chinese": "繁荣",
+        "pinyin": "fánróng",
+        "meaning": "Boom"
+    },
+    {
+        "no": "233",
+        "chinese": "返回",
+        "pinyin": "fǎn huí",
+        "meaning": "return; backtrack; go back"
+    },
+    {
+        "no": "234",
+        "chinese": "防治",
+        "pinyin": "fángzhì",
+        "meaning": "Prevention and cure"
+    },
+    {
+        "no": "235",
+        "chinese": "放大",
+        "pinyin": "fàngdà",
+        "meaning": "enlarge"
+    },
+    {
+        "no": "236",
+        "chinese": "放弃",
+        "pinyin": "fàngqì",
+        "meaning": "give up"
+    },
+    {
+        "no": "237",
+        "chinese": "分成",
+        "pinyin": "fēn chéng",
+        "meaning": "divide into; separate into"
+    },
+    {
+        "no": "238",
+        "chinese": "分解",
+        "pinyin": "fēnjiě",
+        "meaning": "decompose"
+    },
+    {
+        "no": "239",
+        "chinese": "分类",
+        "pinyin": "fēn lèi",
+        "meaning": "classify; assort; classification; sort"
+    },
+    {
+        "no": "240",
+        "chinese": "分离",
+        "pinyin": "fēn lí",
+        "meaning": "separate; sever; dissociate; detachment"
+    },
+    {
+        "no": "241",
+        "chinese": "分析",
+        "pinyin": "fēnxī",
+        "meaning": "Analysis"
+    },
+    {
+        "no": "242",
+        "chinese": "分享",
+        "pinyin": "fēn xiǎng",
+        "meaning": "share; partake"
+    },
+    {
+        "no": "243",
+        "chinese": "丰收",
+        "pinyin": "fēngshōu",
+        "meaning": "Have bumper harvest"
+    },
+    {
+        "no": "244",
+        "chinese": "风度",
+        "pinyin": "fēngdù",
+        "meaning": "Manner"
+    },
+    {
+        "no": "245",
+        "chinese": "风光",
+        "pinyin": "fēngguāng",
+        "meaning": "Scenery"
+    },
+    {
+        "no": "246",
+        "chinese": "封（动）",
+        "pinyin": "fēng",
+        "meaning": "seal; confer; envelop"
+    },
+    {
+        "no": "247",
+        "chinese": "疯",
+        "pinyin": "fēng",
+        "meaning": "mad; crazy; insane"
+    },
+    {
+        "no": "248",
+        "chinese": "疯狂",
+        "pinyin": "fēngkuáng",
+        "meaning": "Insane"
+    },
+    {
+        "no": "249",
+        "chinese": "扶",
+        "pinyin": "fú",
+        "meaning": "hold up"
+    },
+    {
+        "no": "250",
+        "chinese": "服从",
+        "pinyin": "fúcóng",
+        "meaning": "Obey"
+    },
+    {
+        "no": "251",
+        "chinese": "幅",
+        "pinyin": "fú",
+        "meaning": "classifier of picture"
+    },
+    {
+        "no": "252",
+        "chinese": "幅度",
+        "pinyin": "fúdù",
+        "meaning": "range; extent"
+    },
+    {
+        "no": "253",
+        "chinese": "福利",
+        "pinyin": "fúlì",
+        "meaning": "welfare"
+    },
+    {
+        "no": "254",
+        "chinese": "辅助",
+        "pinyin": "fǔzhù",
+        "meaning": "auxiliary"
+    },
+    {
+        "no": "255",
+        "chinese": "负责人",
+        "pinyin": "fù zé rén",
+        "meaning": "principal; person in charge"
+    },
+    {
+        "no": "256",
+        "chinese": "附件",
+        "pinyin": "fùjiàn",
+        "meaning": "Enclosure"
+    },
+    {
+        "no": "257",
+        "chinese": "改革",
+        "pinyin": "gǎigé",
+        "meaning": "reform"
+    },
+    {
+        "no": "258",
+        "chinese": "干脆",
+        "pinyin": "gāncuì",
+        "meaning": "simply"
+    },
+    {
+        "no": "259",
+        "chinese": "干扰",
+        "pinyin": "gānrǎo",
+        "meaning": "interfere"
+    },
+    {
+        "no": "260",
+        "chinese": "干预",
+        "pinyin": "gānyù",
+        "meaning": "intervene"
+    },
+    {
+        "no": "261",
+        "chinese": "感想",
+        "pinyin": "gǎnxiǎng",
+        "meaning": "Feel"
+    },
+    {
+        "no": "262",
+        "chinese": "钢笔",
+        "pinyin": "gāng bǐ",
+        "meaning": "pen; fountain pen"
+    },
+    {
+        "no": "263",
+        "chinese": "钢琴",
+        "pinyin": "gāng qín",
+        "meaning": "piano; pianoforte"
+    },
+    {
+        "no": "264",
+        "chinese": "高大",
+        "pinyin": "gāo dà",
+        "meaning": "tall; lofty"
+    },
+    {
+        "no": "265",
+        "chinese": "高度",
+        "pinyin": "gāo dù",
+        "meaning": "altitude; height; high; highly"
+    },
+    {
+        "no": "266",
+        "chinese": "高跟鞋",
+        "pinyin": "gāo gēn xié",
+        "meaning": "high-heeled shoes"
+    },
+    {
+        "no": "267",
+        "chinese": "高温",
+        "pinyin": "gāo wēn",
+        "meaning": "high temperature"
+    },
+    {
+        "no": "268",
+        "chinese": "高于",
+        "pinyin": "gāo yú",
+        "meaning": "higher than; overtop"
+    },
+    {
+        "no": "269",
+        "chinese": "高原",
+        "pinyin": "gāo yuán",
+        "meaning": "plateau; highland; tableland"
+    },
+    {
+        "no": "270",
+        "chinese": "搞",
+        "pinyin": "gǎo",
+        "meaning": "get"
+    },
+    {
+        "no": "271",
+        "chinese": "搞好",
+        "pinyin": "gǎo hǎo",
+        "meaning": "do well; make a good job of"
+    },
+    {
+        "no": "272",
+        "chinese": "歌曲",
+        "pinyin": "gē qǔ",
+        "meaning": "song"
+    },
+    {
+        "no": "273",
+        "chinese": "隔壁",
+        "pinyin": "gébì",
+        "meaning": "next door"
+    },
+    {
+        "no": "274",
+        "chinese": "个儿",
+        "pinyin": "gèr",
+        "meaning": "height; size; stature"
+    },
+    {
+        "no": "275",
+        "chinese": "跟前",
+        "pinyin": "gēnqián",
+        "meaning": "In front of"
+    },
+    {
+        "no": "276",
+        "chinese": "跟随",
+        "pinyin": "gēnsuí",
+        "meaning": "follow"
+    },
+    {
+        "no": "277",
+        "chinese": "更换",
+        "pinyin": "gēng huàn",
+        "meaning": "change; replace"
+    },
+    {
+        "no": "278",
+        "chinese": "更新",
+        "pinyin": "gēngxīn",
+        "meaning": "renovate; renew"
+    },
+    {
+        "no": "279",
+        "chinese": "工艺",
+        "pinyin": "gōng yì",
+        "meaning": "technology; craft"
+    },
+    {
+        "no": "280",
+        "chinese": "工作日",
+        "pinyin": "gōng zuò rì",
+        "meaning": "workday; working day"
+    },
+    {
+        "no": "281",
+        "chinese": "公告",
+        "pinyin": "gōnggào",
+        "meaning": "Notice"
+    },
+    {
+        "no": "282",
+        "chinese": "公认",
+        "pinyin": "gōngrèn",
+        "meaning": "Accepted"
+    },
+    {
+        "no": "283",
+        "chinese": "公式",
+        "pinyin": "gōngshì",
+        "meaning": "formula"
+    },
+    {
+        "no": "284",
+        "chinese": "公正",
+        "pinyin": "gōngzhèng",
+        "meaning": "fair"
+    },
+    {
+        "no": "285",
+        "chinese": "共计",
+        "pinyin": "gòngjì",
+        "meaning": "count up to; sum to"
+    },
+    {
+        "no": "286",
+        "chinese": "共享",
+        "pinyin": "gòng xiǎng",
+        "meaning": "enjoy together; share"
+    },
+    {
+        "no": "287",
+        "chinese": "沟",
+        "pinyin": "gōu",
+        "meaning": "ditch; gutter; trench; gully"
+    },
+    {
+        "no": "288",
+        "chinese": "沟通",
+        "pinyin": "gōutōng",
+        "meaning": "Communicate"
+    },
+    {
+        "no": "289",
+        "chinese": "估计",
+        "pinyin": "gūjì",
+        "meaning": "estimate"
+    },
+    {
+        "no": "290",
+        "chinese": "古老",
+        "pinyin": "gǔ lǎo",
+        "meaning": "ancient; old; age-old"
+    },
+    {
+        "no": "291",
+        "chinese": "鼓",
+        "pinyin": "gǔ",
+        "meaning": "drum; beat; rouse; bulging"
+    },
+    {
+        "no": "292",
+        "chinese": "鼓励",
+        "pinyin": "gǔlì",
+        "meaning": "encourage"
+    },
+    {
+        "no": "293",
+        "chinese": "鼓掌",
+        "pinyin": "gǔzhǎng",
+        "meaning": "applause"
+    },
+    {
+        "no": "294",
+        "chinese": "顾问",
+        "pinyin": "gùwèn",
+        "meaning": "adviser"
+    },
+    {
+        "no": "295",
+        "chinese": "怪（动）",
+        "pinyin": "guài",
+        "meaning": "blame"
+    },
+    {
+        "no": "296",
+        "chinese": "关怀",
+        "pinyin": "guānhuái",
+        "meaning": "Care"
+    },
+    {
+        "no": "297",
+        "chinese": "关键",
+        "pinyin": "guānjiàn",
+        "meaning": "crux"
+    },
+    {
+        "no": "298",
+        "chinese": "冠军",
+        "pinyin": "guànjūn",
+        "meaning": "Champion"
+    },
+    {
+        "no": "299",
+        "chinese": "光荣",
+        "pinyin": "guāngróng",
+        "meaning": "glory"
+    },
+    {
+        "no": "300",
+        "chinese": "光线",
+        "pinyin": "guāng xiàn",
+        "meaning": "light; optical line"
+    },
+    {
+        "no": "301",
+        "chinese": "广",
+        "pinyin": "guǎng",
+        "meaning": "broad; wide; vast; extensive; numerous; spread"
+    },
+    {
+        "no": "302",
+        "chinese": "广泛",
+        "pinyin": "guǎngfàn",
+        "meaning": "widely"
+    },
+    {
+        "no": "303",
+        "chinese": "规划",
+        "pinyin": "guīhuà",
+        "meaning": "Plan"
+    },
+    {
+        "no": "304",
+        "chinese": "鬼",
+        "pinyin": "guǐ",
+        "meaning": "ghost; spirit; apparition; dirty trick; terrible; smart"
+    },
+    {
+        "no": "305",
+        "chinese": "柜子",
+        "pinyin": "guì zi",
+        "meaning": "cupboard; cabinet; chest"
+    },
+    {
+        "no": "306",
+        "chinese": "滚",
+        "pinyin": "gǔn",
+        "meaning": "rolling"
+    }
+]

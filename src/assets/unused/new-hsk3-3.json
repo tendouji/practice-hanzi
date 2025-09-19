@@ -1,0 +1,974 @@
+[
+    {
+        "no": "326",
+        "chinese": "技术",
+        "pinyin": "jìshù",
+        "meaning": "technology"
+    },
+    {
+        "no": "327",
+        "chinese": "继续",
+        "pinyin": "jìxù",
+        "meaning": "Continue"
+    },
+    {
+        "no": "328",
+        "chinese": "加工",
+        "pinyin": "jiāgōng",
+        "meaning": "machining"
+    },
+    {
+        "no": "329",
+        "chinese": "加快",
+        "pinyin": "jiā kuài",
+        "meaning": "speed up; accelerate"
+    },
+    {
+        "no": "330",
+        "chinese": "加强",
+        "pinyin": "jiā qiáng",
+        "meaning": "strengthen; reinforce"
+    },
+    {
+        "no": "331",
+        "chinese": "家具",
+        "pinyin": "jiājù",
+        "meaning": "furniture"
+    },
+    {
+        "no": "332",
+        "chinese": "家属",
+        "pinyin": "jiāshǔ",
+        "meaning": "family members"
+    },
+    {
+        "no": "333",
+        "chinese": "家乡",
+        "pinyin": "jiāxiāng",
+        "meaning": "Hometown"
+    },
+    {
+        "no": "334",
+        "chinese": "价格",
+        "pinyin": "jiàgé",
+        "meaning": "Price"
+    },
+    {
+        "no": "335",
+        "chinese": "价钱",
+        "pinyin": "jià qián",
+        "meaning": "price"
+    },
+    {
+        "no": "336",
+        "chinese": "价值",
+        "pinyin": "jiàzhí",
+        "meaning": "value"
+    },
+    {
+        "no": "337",
+        "chinese": "架",
+        "pinyin": "jià",
+        "meaning": "frame; rack; shelf; stand"
+    },
+    {
+        "no": "338",
+        "chinese": "坚持",
+        "pinyin": "jiānchí",
+        "meaning": "Insist"
+    },
+    {
+        "no": "339",
+        "chinese": "坚决",
+        "pinyin": "jiānjué",
+        "meaning": "firm"
+    },
+    {
+        "no": "340",
+        "chinese": "坚强",
+        "pinyin": "jiānqiáng",
+        "meaning": "Firm"
+    },
+    {
+        "no": "341",
+        "chinese": "简单",
+        "pinyin": "jiǎndān",
+        "meaning": "simple"
+    },
+    {
+        "no": "342",
+        "chinese": "简直",
+        "pinyin": "jiǎnzhí",
+        "meaning": "simply"
+    },
+    {
+        "no": "343",
+        "chinese": "建",
+        "pinyin": "jiàn",
+        "meaning": "build; construct; erect; establish; set up; found"
+    },
+    {
+        "no": "344",
+        "chinese": "建成",
+        "pinyin": "jiàn chéng",
+        "meaning": "built up"
+    },
+    {
+        "no": "345",
+        "chinese": "建立",
+        "pinyin": "jiànlì",
+        "meaning": "establish"
+    },
+    {
+        "no": "346",
+        "chinese": "建设",
+        "pinyin": "jiànshè",
+        "meaning": "build"
+    },
+    {
+        "no": "347",
+        "chinese": "建议",
+        "pinyin": "jiànyì",
+        "meaning": "proposal"
+    },
+    {
+        "no": "348",
+        "chinese": "将近",
+        "pinyin": "jiāngjìn",
+        "meaning": "nearly"
+    },
+    {
+        "no": "349",
+        "chinese": "将来",
+        "pinyin": "jiānglái",
+        "meaning": "future"
+    },
+    {
+        "no": "350",
+        "chinese": "交费",
+        "pinyin": "jiāo fèi",
+        "meaning": "pay"
+    },
+    {
+        "no": "351",
+        "chinese": "交警",
+        "pinyin": "jiāo jǐng",
+        "meaning": "traffic police"
+    },
+    {
+        "no": "352",
+        "chinese": "交流",
+        "pinyin": "jiāoliú",
+        "meaning": "Communication"
+    },
+    {
+        "no": "353",
+        "chinese": "交往",
+        "pinyin": "jiāowǎng",
+        "meaning": "affiliate with"
+    },
+    {
+        "no": "354",
+        "chinese": "交易",
+        "pinyin": "jiāoyì",
+        "meaning": "transaction"
+    },
+    {
+        "no": "355",
+        "chinese": "叫（介）",
+        "pinyin": "jiào",
+        "meaning": "(preposition)"
+    },
+    {
+        "no": "356",
+        "chinese": "较",
+        "pinyin": "jiào",
+        "meaning": "compare; comparatively; relatively; fairly; quite; rather"
+    },
+    {
+        "no": "357",
+        "chinese": "教材",
+        "pinyin": "jiàocái",
+        "meaning": "teaching material"
+    },
+    {
+        "no": "358",
+        "chinese": "教练",
+        "pinyin": "jiàoliàn",
+        "meaning": "coach"
+    },
+    {
+        "no": "359",
+        "chinese": "结实",
+        "pinyin": "jiēshi",
+        "meaning": "strong"
+    },
+    {
+        "no": "360",
+        "chinese": "接待",
+        "pinyin": "jiēdài",
+        "meaning": "Reception"
+    },
+    {
+        "no": "361",
+        "chinese": "接近",
+        "pinyin": "jiējìn",
+        "meaning": "near"
+    },
+    {
+        "no": "362",
+        "chinese": "节约",
+        "pinyin": "jiéyuē",
+        "meaning": "save"
+    },
+    {
+        "no": "363",
+        "chinese": "结合",
+        "pinyin": "jiéhé",
+        "meaning": "Combination"
+    },
+    {
+        "no": "364",
+        "chinese": "结婚",
+        "pinyin": "jiéhūn",
+        "meaning": "marry"
+    },
+    {
+        "no": "365",
+        "chinese": "结束",
+        "pinyin": "jiéshù",
+        "meaning": "End"
+    },
+    {
+        "no": "366",
+        "chinese": "解决",
+        "pinyin": "jiějué",
+        "meaning": "Solve"
+    },
+    {
+        "no": "367",
+        "chinese": "解开",
+        "pinyin": "jiě kāi",
+        "meaning": "undo; untie; unfasten; unbutton"
+    },
+    {
+        "no": "368",
+        "chinese": "金",
+        "pinyin": "jīn",
+        "meaning": "gold"
+    },
+    {
+        "no": "369",
+        "chinese": "金牌",
+        "pinyin": "jīn pái",
+        "meaning": "gold medal"
+    },
+    {
+        "no": "370",
+        "chinese": "仅",
+        "pinyin": "jǐn",
+        "meaning": "only; merely; barely"
+    },
+    {
+        "no": "371",
+        "chinese": "仅仅",
+        "pinyin": "jǐn jǐn",
+        "meaning": "only; merely; barely"
+    },
+    {
+        "no": "372",
+        "chinese": "尽量",
+        "pinyin": "jǐnliàng",
+        "meaning": "as far as possible"
+    },
+    {
+        "no": "373",
+        "chinese": "紧",
+        "pinyin": "jǐn",
+        "meaning": "tight; close; urgent; strict"
+    },
+    {
+        "no": "374",
+        "chinese": "紧急",
+        "pinyin": "jǐnjí",
+        "meaning": "urgent"
+    },
+    {
+        "no": "375",
+        "chinese": "紧张",
+        "pinyin": "jǐnzhāng",
+        "meaning": "Nervous"
+    },
+    {
+        "no": "376",
+        "chinese": "进步",
+        "pinyin": "jìnbù",
+        "meaning": "progress"
+    },
+    {
+        "no": "377",
+        "chinese": "进一步",
+        "pinyin": "jìn yí bù",
+        "meaning": "go a step further; further"
+    },
+    {
+        "no": "378",
+        "chinese": "进展",
+        "pinyin": "jìnzhǎn",
+        "meaning": "evolve; get along"
+    },
+    {
+        "no": "379",
+        "chinese": "近期",
+        "pinyin": "jìn qī",
+        "meaning": "recent"
+    },
+    {
+        "no": "380",
+        "chinese": "京剧",
+        "pinyin": "jīngjù",
+        "meaning": "Beijing opera"
+    },
+    {
+        "no": "381",
+        "chinese": "经济",
+        "pinyin": "jīngjì",
+        "meaning": "Economics"
+    },
+    {
+        "no": "382",
+        "chinese": "经历",
+        "pinyin": "jīnglì",
+        "meaning": "experience"
+    },
+    {
+        "no": "383",
+        "chinese": "经验",
+        "pinyin": "jīngyàn",
+        "meaning": "experience"
+    },
+    {
+        "no": "384",
+        "chinese": "经营",
+        "pinyin": "jīngyíng",
+        "meaning": "Management"
+    },
+    {
+        "no": "385",
+        "chinese": "精彩",
+        "pinyin": "jīngcǎi",
+        "meaning": "Marvellous"
+    },
+    {
+        "no": "386",
+        "chinese": "精神",
+        "pinyin": "jīngshén",
+        "meaning": "spirit, mind"
+    },
+    {
+        "no": "387",
+        "chinese": "精神",
+        "pinyin": "jīngshen",
+        "meaning": "lively, vigour"
+    },
+    {
+        "no": "388",
+        "chinese": "景色",
+        "pinyin": "jǐngsè",
+        "meaning": "scenery"
+    },
+    {
+        "no": "389",
+        "chinese": "警察",
+        "pinyin": "jǐngchá",
+        "meaning": "Police"
+    },
+    {
+        "no": "390",
+        "chinese": "静",
+        "pinyin": "jìng",
+        "meaning": "silent; quiet; calm"
+    },
+    {
+        "no": "391",
+        "chinese": "久",
+        "pinyin": "jiǔ",
+        "meaning": "long"
+    },
+    {
+        "no": "392",
+        "chinese": "旧",
+        "pinyin": "jiù",
+        "meaning": "used"
+    },
+    {
+        "no": "393",
+        "chinese": "救",
+        "pinyin": "jiù",
+        "meaning": "save"
+    },
+    {
+        "no": "394",
+        "chinese": "就是",
+        "pinyin": "jiù shì",
+        "meaning": "precisely; exactly; just like"
+    },
+    {
+        "no": "395",
+        "chinese": "就业",
+        "pinyin": "jiùyè",
+        "meaning": "take up an occupation"
+    },
+    {
+        "no": "396",
+        "chinese": "举办",
+        "pinyin": "jǔbàn",
+        "meaning": "hold"
+    },
+    {
+        "no": "397",
+        "chinese": "具体",
+        "pinyin": "jùtǐ",
+        "meaning": "specific"
+    },
+    {
+        "no": "398",
+        "chinese": "具有",
+        "pinyin": "jù yǒu",
+        "meaning": "possess; have; be provided with"
+    },
+    {
+        "no": "399",
+        "chinese": "剧场",
+        "pinyin": "jù chǎng",
+        "meaning": "theater"
+    },
+    {
+        "no": "400",
+        "chinese": "据说",
+        "pinyin": "jùshuō",
+        "meaning": "allegedly"
+    },
+    {
+        "no": "401",
+        "chinese": "决定",
+        "pinyin": "juédìng",
+        "meaning": "Decision"
+    },
+    {
+        "no": "402",
+        "chinese": "决赛",
+        "pinyin": "juésài",
+        "meaning": "Finals"
+    },
+    {
+        "no": "403",
+        "chinese": "决心",
+        "pinyin": "juéxīn",
+        "meaning": "Determination"
+    },
+    {
+        "no": "404",
+        "chinese": "绝对",
+        "pinyin": "juéduì",
+        "meaning": "Absolutely"
+    },
+    {
+        "no": "405",
+        "chinese": "咖啡",
+        "pinyin": "kāfēi",
+        "meaning": "Coffee"
+    },
+    {
+        "no": "406",
+        "chinese": "开发",
+        "pinyin": "kāifā",
+        "meaning": "Development"
+    },
+    {
+        "no": "407",
+        "chinese": "开放",
+        "pinyin": "kāifàng",
+        "meaning": "To open up"
+    },
+    {
+        "no": "408",
+        "chinese": "开始",
+        "pinyin": "kāishǐ",
+        "meaning": "start"
+    },
+    {
+        "no": "409",
+        "chinese": "开业",
+        "pinyin": "kāi yè",
+        "meaning": "start business; open a private practice"
+    },
+    {
+        "no": "410",
+        "chinese": "开展",
+        "pinyin": "kāizhǎn",
+        "meaning": "Develop"
+    },
+    {
+        "no": "411",
+        "chinese": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "meaning": "look like"
+    },
+    {
+        "no": "412",
+        "chinese": "看上去",
+        "pinyin": "kàn shàng qù",
+        "meaning": "seem"
+    },
+    {
+        "no": "413",
+        "chinese": "考验",
+        "pinyin": "kǎoyàn",
+        "meaning": "test"
+    },
+    {
+        "no": "414",
+        "chinese": "科技",
+        "pinyin": "kē jì",
+        "meaning": "science and technology"
+    },
+    {
+        "no": "415",
+        "chinese": "可靠",
+        "pinyin": "kěkào",
+        "meaning": "reliable"
+    },
+    {
+        "no": "416",
+        "chinese": "可乐",
+        "pinyin": "kě lè",
+        "meaning": "coke; cola"
+    },
+    {
+        "no": "417",
+        "chinese": "克服",
+        "pinyin": "kèfú",
+        "meaning": "Overcome"
+    },
+    {
+        "no": "418",
+        "chinese": "客观",
+        "pinyin": "kèguān",
+        "meaning": "objective"
+    },
+    {
+        "no": "419",
+        "chinese": "课程",
+        "pinyin": "kèchéng",
+        "meaning": "curriculum"
+    },
+    {
+        "no": "420",
+        "chinese": "空",
+        "pinyin": "kōng",
+        "meaning": "empty"
+    },
+    {
+        "no": "421",
+        "chinese": "空调",
+        "pinyin": "kōngtiáo",
+        "meaning": "Air conditioner"
+    },
+    {
+        "no": "422",
+        "chinese": "恐怕",
+        "pinyin": "kǒngpà",
+        "meaning": "I'm afraid"
+    },
+    {
+        "no": "423",
+        "chinese": "空儿",
+        "pinyin": "kòngr",
+        "meaning": "free time"
+    },
+    {
+        "no": "424",
+        "chinese": "裤子",
+        "pinyin": "kùzi",
+        "meaning": "trousers"
+    },
+    {
+        "no": "425",
+        "chinese": "快速",
+        "pinyin": "kuài sù",
+        "meaning": "fast; high-speed"
+    },
+    {
+        "no": "426",
+        "chinese": "困",
+        "pinyin": "kùn",
+        "meaning": "sleepy"
+    },
+    {
+        "no": "427",
+        "chinese": "困难",
+        "pinyin": "kùnnán",
+        "meaning": "difficulty"
+    },
+    {
+        "no": "428",
+        "chinese": "浪费",
+        "pinyin": "làngfèi",
+        "meaning": "Waste"
+    },
+    {
+        "no": "429",
+        "chinese": "老百姓",
+        "pinyin": "lǎobǎixìng",
+        "meaning": "Ordinary people"
+    },
+    {
+        "no": "430",
+        "chinese": "老板",
+        "pinyin": "lǎobǎn",
+        "meaning": "Boss"
+    },
+    {
+        "no": "431",
+        "chinese": "老太太",
+        "pinyin": "lǎo tài tai",
+        "meaning": "old lady"
+    },
+    {
+        "no": "432",
+        "chinese": "老头儿",
+        "pinyin": "lǎo tóur",
+        "meaning": "old man"
+    },
+    {
+        "no": "433",
+        "chinese": "乐",
+        "pinyin": "lè",
+        "meaning": "happy; laugh; cheerful"
+    },
+    {
+        "no": "434",
+        "chinese": "乐观",
+        "pinyin": "lèguān",
+        "meaning": "optimistic"
+    },
+    {
+        "no": "435",
+        "chinese": "类",
+        "pinyin": "lèi",
+        "meaning": "class; category; kind; type"
+    },
+    {
+        "no": "436",
+        "chinese": "类似",
+        "pinyin": "lèisì",
+        "meaning": "Similar"
+    },
+    {
+        "no": "437",
+        "chinese": "离婚",
+        "pinyin": "líhūn",
+        "meaning": "divorce"
+    },
+    {
+        "no": "438",
+        "chinese": "里面",
+        "pinyin": "lǐ miàn",
+        "meaning": "inside; interior"
+    },
+    {
+        "no": "439",
+        "chinese": "理发",
+        "pinyin": "lǐfà",
+        "meaning": "Haircut"
+    },
+    {
+        "no": "440",
+        "chinese": "理解",
+        "pinyin": "lǐjiě",
+        "meaning": "Understand"
+    },
+    {
+        "no": "441",
+        "chinese": "理论",
+        "pinyin": "lǐlùn",
+        "meaning": "theory"
+    },
+    {
+        "no": "442",
+        "chinese": "理由",
+        "pinyin": "lǐyóu",
+        "meaning": "Reason"
+    },
+    {
+        "no": "443",
+        "chinese": "力",
+        "pinyin": "lì",
+        "meaning": "power; force"
+    },
+    {
+        "no": "444",
+        "chinese": "力量",
+        "pinyin": "lìliàng",
+        "meaning": "Power"
+    },
+    {
+        "no": "445",
+        "chinese": "立刻",
+        "pinyin": "lìkè",
+        "meaning": "immediately"
+    },
+    {
+        "no": "446",
+        "chinese": "利用",
+        "pinyin": "lìyòng",
+        "meaning": "utilize"
+    },
+    {
+        "no": "447",
+        "chinese": "连",
+        "pinyin": "lián",
+        "meaning": "even"
+    },
+    {
+        "no": "448",
+        "chinese": "连忙",
+        "pinyin": "liánmáng",
+        "meaning": "Hurriedly"
+    },
+    {
+        "no": "449",
+        "chinese": "连续",
+        "pinyin": "liánxù",
+        "meaning": "serial "
+    },
+    {
+        "no": "450",
+        "chinese": "连续剧",
+        "pinyin": "lián xù jù",
+        "meaning": "series; soap opera"
+    },
+    {
+        "no": "451",
+        "chinese": "联合",
+        "pinyin": "liánhé",
+        "meaning": "union"
+    },
+    {
+        "no": "452",
+        "chinese": "联合国",
+        "pinyin": "lián hé guó",
+        "meaning": "United Nations"
+    },
+    {
+        "no": "453",
+        "chinese": "联系",
+        "pinyin": "liánxì",
+        "meaning": "contact"
+    },
+    {
+        "no": "454",
+        "chinese": "凉水",
+        "pinyin": "liáng shuǐ",
+        "meaning": "cold water; unboiled water"
+    },
+    {
+        "no": "455",
+        "chinese": "了",
+        "pinyin": "le",
+        "meaning": "past tense marker"
+    },
+    {
+        "no": "456",
+        "chinese": "领",
+        "pinyin": "lǐng",
+        "meaning": "lead; receive; get; understand"
+    },
+    {
+        "no": "457",
+        "chinese": "领导",
+        "pinyin": "lǐngdǎo",
+        "meaning": "Leader"
+    },
+    {
+        "no": "458",
+        "chinese": "领先",
+        "pinyin": "lǐngxiān",
+        "meaning": "keep ahead"
+    },
+    {
+        "no": "459",
+        "chinese": "另外",
+        "pinyin": "lìngwài",
+        "meaning": "in addition"
+    },
+    {
+        "no": "460",
+        "chinese": "另一方面",
+        "pinyin": "lìng yì fāng miàn",
+        "meaning": "on the other hand"
+    },
+    {
+        "no": "461",
+        "chinese": "留学",
+        "pinyin": "liúxué",
+        "meaning": "Overseas Study"
+    },
+    {
+        "no": "462",
+        "chinese": "龙",
+        "pinyin": "lóng",
+        "meaning": "dragon"
+    },
+    {
+        "no": "463",
+        "chinese": "录",
+        "pinyin": "lù",
+        "meaning": "record; write down; copy"
+    },
+    {
+        "no": "464",
+        "chinese": "录音",
+        "pinyin": "lùyīn",
+        "meaning": "Sound recording"
+    },
+    {
+        "no": "465",
+        "chinese": "路线",
+        "pinyin": "lù xiàn",
+        "meaning": "path; route; way; line"
+    },
+    {
+        "no": "466",
+        "chinese": "旅馆",
+        "pinyin": "lǚ guǎn",
+        "meaning": "hotel"
+    },
+    {
+        "no": "467",
+        "chinese": "旅行社",
+        "pinyin": "lǚ xíng shè",
+        "meaning": "travel agency"
+    },
+    {
+        "no": "468",
+        "chinese": "绿茶",
+        "pinyin": "lǜ chá",
+        "meaning": "green tea"
+    },
+    {
+        "no": "469",
+        "chinese": "乱",
+        "pinyin": "luàn",
+        "meaning": "chaos"
+    },
+    {
+        "no": "470",
+        "chinese": "落后",
+        "pinyin": "luòhòu",
+        "meaning": "backward"
+    },
+    {
+        "no": "471",
+        "chinese": "麻烦",
+        "pinyin": "máfan",
+        "meaning": "trouble"
+    },
+    {
+        "no": "472",
+        "chinese": "马",
+        "pinyin": "mǎ",
+        "meaning": "Horse"
+    },
+    {
+        "no": "473",
+        "chinese": "满足",
+        "pinyin": "mǎnzú",
+        "meaning": "satisfy"
+    },
+    {
+        "no": "474",
+        "chinese": "慢慢",
+        "pinyin": "màn màn",
+        "meaning": "slowly"
+    },
+    {
+        "no": "475",
+        "chinese": "毛（名）",
+        "pinyin": "máo",
+        "meaning": "a fractional unit of money in China; hair; fur"
+    },
+    {
+        "no": "476",
+        "chinese": "毛病",
+        "pinyin": "máobìng",
+        "meaning": "Trouble"
+    },
+    {
+        "no": "477",
+        "chinese": "没用",
+        "pinyin": "méi yòng",
+        "meaning": "useless"
+    },
+    {
+        "no": "478",
+        "chinese": "媒体",
+        "pinyin": "méitǐ",
+        "meaning": "media"
+    },
+    {
+        "no": "479",
+        "chinese": "每",
+        "pinyin": "měi",
+        "meaning": "each"
+    },
+    {
+        "no": "480",
+        "chinese": "美",
+        "pinyin": "měi",
+        "meaning": "beautiful; pretty"
+    },
+    {
+        "no": "481",
+        "chinese": "美好",
+        "pinyin": "měi hǎo",
+        "meaning": "fine; happy; glorious"
+    },
+    {
+        "no": "482",
+        "chinese": "美丽",
+        "pinyin": "měilì",
+        "meaning": "beautiful"
+    },
+    {
+        "no": "483",
+        "chinese": "美食",
+        "pinyin": "měi shí",
+        "meaning": "delicious food ; gourmet"
+    },
+    {
+        "no": "484",
+        "chinese": "美术",
+        "pinyin": "měishù",
+        "meaning": "Fine Arts"
+    },
+    {
+        "no": "485",
+        "chinese": "美元",
+        "pinyin": "měi yuán",
+        "meaning": "U.S. dollar"
+    },
+    {
+        "no": "486",
+        "chinese": "迷",
+        "pinyin": "mí",
+        "meaning": "fan; confused; be crazy about"
+    },
+    {
+        "no": "487",
+        "chinese": "米（名）",
+        "pinyin": "mǐ",
+        "meaning": "meter; rice"
+    }
+]

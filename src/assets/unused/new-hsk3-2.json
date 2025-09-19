@@ -1,0 +1,974 @@
+[
+    {
+        "no": "164",
+        "chinese": "断",
+        "pinyin": "duàn",
+        "meaning": "break"
+    },
+    {
+        "no": "165",
+        "chinese": "队员",
+        "pinyin": "duì yuán",
+        "meaning": "team member"
+    },
+    {
+        "no": "166",
+        "chinese": "对待",
+        "pinyin": "duìdài",
+        "meaning": "treat"
+    },
+    {
+        "no": "167",
+        "chinese": "对方",
+        "pinyin": "duìfāng",
+        "meaning": "Other party"
+    },
+    {
+        "no": "168",
+        "chinese": "对手",
+        "pinyin": "duìshǒu",
+        "meaning": "Opponent"
+    },
+    {
+        "no": "169",
+        "chinese": "对象",
+        "pinyin": "duìxiàng",
+        "meaning": "object"
+    },
+    {
+        "no": "170",
+        "chinese": "顿",
+        "pinyin": "dùn",
+        "meaning": "Meal"
+    },
+    {
+        "no": "171",
+        "chinese": "发表",
+        "pinyin": "fābiǎo",
+        "meaning": "Publish"
+    },
+    {
+        "no": "172",
+        "chinese": "发出",
+        "pinyin": "fā chū",
+        "meaning": "issue; send out; give off; emit"
+    },
+    {
+        "no": "173",
+        "chinese": "发达",
+        "pinyin": "fādá",
+        "meaning": "developed"
+    },
+    {
+        "no": "174",
+        "chinese": "发动",
+        "pinyin": "fādòng",
+        "meaning": "Launch"
+    },
+    {
+        "no": "175",
+        "chinese": "发明",
+        "pinyin": "fāmíng",
+        "meaning": "Invention"
+    },
+    {
+        "no": "176",
+        "chinese": "发生",
+        "pinyin": "fāshēng",
+        "meaning": "Happen"
+    },
+    {
+        "no": "177",
+        "chinese": "发送",
+        "pinyin": "fā sòng",
+        "meaning": "send; transmit; dispatch; ship; forward"
+    },
+    {
+        "no": "178",
+        "chinese": "发言",
+        "pinyin": "fāyán",
+        "meaning": "speak"
+    },
+    {
+        "no": "179",
+        "chinese": "发展",
+        "pinyin": "fāzhǎn",
+        "meaning": "Development"
+    },
+    {
+        "no": "180",
+        "chinese": "反对",
+        "pinyin": "fǎnduì",
+        "meaning": "Opposition"
+    },
+    {
+        "no": "181",
+        "chinese": "反复",
+        "pinyin": "fǎnfù",
+        "meaning": "Repeatedly"
+    },
+    {
+        "no": "182",
+        "chinese": "反应",
+        "pinyin": "fǎnyìng",
+        "meaning": "reaction"
+    },
+    {
+        "no": "183",
+        "chinese": "反正",
+        "pinyin": "fǎnzhèng",
+        "meaning": "anyway"
+    },
+    {
+        "no": "184",
+        "chinese": "范围",
+        "pinyin": "fànwéi",
+        "meaning": "Range"
+    },
+    {
+        "no": "185",
+        "chinese": "方式",
+        "pinyin": "fāngshì",
+        "meaning": "mode"
+    },
+    {
+        "no": "186",
+        "chinese": "防",
+        "pinyin": "fáng",
+        "meaning": "guard against; defend"
+    },
+    {
+        "no": "187",
+        "chinese": "防止",
+        "pinyin": "fángzhǐ",
+        "meaning": "Prevent"
+    },
+    {
+        "no": "188",
+        "chinese": "房东",
+        "pinyin": "fángdōng",
+        "meaning": "landlord"
+    },
+    {
+        "no": "189",
+        "chinese": "房屋",
+        "pinyin": "fáng wū",
+        "meaning": "houses; buildings; tenement"
+    },
+    {
+        "no": "190",
+        "chinese": "房租",
+        "pinyin": "fáng zū",
+        "meaning": "rent"
+    },
+    {
+        "no": "191",
+        "chinese": "访问",
+        "pinyin": "fǎngwèn",
+        "meaning": "Visit"
+    },
+    {
+        "no": "192",
+        "chinese": "放到",
+        "pinyin": "fàng dào",
+        "meaning": "put to; put into"
+    },
+    {
+        "no": "193",
+        "chinese": "飞行",
+        "pinyin": "fēi xíng",
+        "meaning": "flight; flying"
+    },
+    {
+        "no": "194",
+        "chinese": "费",
+        "pinyin": "fèi",
+        "meaning": "fee; cost"
+    },
+    {
+        "no": "195",
+        "chinese": "费用",
+        "pinyin": "fèi yòng",
+        "meaning": "cost; expenses; outlay"
+    },
+    {
+        "no": "196",
+        "chinese": "分别",
+        "pinyin": "fēnbié",
+        "meaning": "part"
+    },
+    {
+        "no": "197",
+        "chinese": "分配",
+        "pinyin": "fēnpèi",
+        "meaning": "distribution"
+    },
+    {
+        "no": "198",
+        "chinese": "分组",
+        "pinyin": "fēn zǔ",
+        "meaning": "grouping"
+    },
+    {
+        "no": "199",
+        "chinese": "丰富",
+        "pinyin": "fēngfù",
+        "meaning": "rich"
+    },
+    {
+        "no": "200",
+        "chinese": "风险",
+        "pinyin": "fēngxiǎn",
+        "meaning": "risk"
+    },
+    {
+        "no": "201",
+        "chinese": "否定",
+        "pinyin": "fǒudìng",
+        "meaning": "negative"
+    },
+    {
+        "no": "202",
+        "chinese": "否认",
+        "pinyin": "fǒurèn",
+        "meaning": "deny"
+    },
+    {
+        "no": "203",
+        "chinese": "服装",
+        "pinyin": "fúzhuāng",
+        "meaning": "costume; dress"
+    },
+    {
+        "no": "204",
+        "chinese": "福",
+        "pinyin": "fú",
+        "meaning": "blessing; good fortune"
+    },
+    {
+        "no": "205",
+        "chinese": "父母",
+        "pinyin": "fù mǔ",
+        "meaning": "father and mother; parents"
+    },
+    {
+        "no": "206",
+        "chinese": "父亲",
+        "pinyin": "fùqīn",
+        "meaning": "father"
+    },
+    {
+        "no": "207",
+        "chinese": "付",
+        "pinyin": "fù",
+        "meaning": "pay; commit; hand over"
+    },
+    {
+        "no": "208",
+        "chinese": "负责",
+        "pinyin": "fùzé",
+        "meaning": "Be responsible for"
+    },
+    {
+        "no": "209",
+        "chinese": "复印",
+        "pinyin": "fùyìn",
+        "meaning": "To copy"
+    },
+    {
+        "no": "210",
+        "chinese": "复杂",
+        "pinyin": "fùzá",
+        "meaning": "complex"
+    },
+    {
+        "no": "211",
+        "chinese": "富",
+        "pinyin": "fù",
+        "meaning": "rich"
+    },
+    {
+        "no": "212",
+        "chinese": "改进",
+        "pinyin": "gǎijìn",
+        "meaning": "Improvement"
+    },
+    {
+        "no": "213",
+        "chinese": "改造",
+        "pinyin": "gǎi zào",
+        "meaning": "transform; reform"
+    },
+    {
+        "no": "214",
+        "chinese": "概念",
+        "pinyin": "gàiniàn",
+        "meaning": "concept"
+    },
+    {
+        "no": "215",
+        "chinese": "赶",
+        "pinyin": "gǎn",
+        "meaning": "catch up with"
+    },
+    {
+        "no": "216",
+        "chinese": "赶到",
+        "pinyin": "gǎn dào",
+        "meaning": "arrived; get to"
+    },
+    {
+        "no": "217",
+        "chinese": "赶紧",
+        "pinyin": "gǎnjǐn",
+        "meaning": "Quickly"
+    },
+    {
+        "no": "218",
+        "chinese": "赶快",
+        "pinyin": "gǎnkuài",
+        "meaning": "Come on"
+    },
+    {
+        "no": "219",
+        "chinese": "敢",
+        "pinyin": "gǎn",
+        "meaning": "dare"
+    },
+    {
+        "no": "220",
+        "chinese": "感冒",
+        "pinyin": "gǎnmào",
+        "meaning": "Cold"
+    },
+    {
+        "no": "221",
+        "chinese": "感情",
+        "pinyin": "gǎnqíng",
+        "meaning": "feeling"
+    },
+    {
+        "no": "222",
+        "chinese": "感受",
+        "pinyin": "gǎnshòu",
+        "meaning": "feel"
+    },
+    {
+        "no": "223",
+        "chinese": "干吗",
+        "pinyin": "gàn má",
+        "meaning": "Why"
+    },
+    {
+        "no": "224",
+        "chinese": "高速",
+        "pinyin": "gāo sù",
+        "meaning": "high speed"
+    },
+    {
+        "no": "225",
+        "chinese": "高速公路",
+        "pinyin": "gāosùgōnglù",
+        "meaning": "Expressway"
+    },
+    {
+        "no": "226",
+        "chinese": "告别",
+        "pinyin": "gàobié",
+        "meaning": "farewell"
+    },
+    {
+        "no": "227",
+        "chinese": "歌迷",
+        "pinyin": "gē mí",
+        "meaning": "fan"
+    },
+    {
+        "no": "228",
+        "chinese": "歌声",
+        "pinyin": "gē shēng",
+        "meaning": "singing"
+    },
+    {
+        "no": "229",
+        "chinese": "歌手",
+        "pinyin": "gē shǒu",
+        "meaning": "singer; vocalist"
+    },
+    {
+        "no": "230",
+        "chinese": "个人",
+        "pinyin": "gèrén",
+        "meaning": "personal"
+    },
+    {
+        "no": "231",
+        "chinese": "个性",
+        "pinyin": "gèxìng",
+        "meaning": "personality"
+    },
+    {
+        "no": "232",
+        "chinese": "各",
+        "pinyin": "gè",
+        "meaning": "various"
+    },
+    {
+        "no": "233",
+        "chinese": "各地",
+        "pinyin": "gè dì",
+        "meaning": "various regions; everywhere"
+    },
+    {
+        "no": "234",
+        "chinese": "各位",
+        "pinyin": "gè wèi",
+        "meaning": "everybody"
+    },
+    {
+        "no": "235",
+        "chinese": "各种",
+        "pinyin": "gè zhǒng",
+        "meaning": "all kinds; various; every kind"
+    },
+    {
+        "no": "236",
+        "chinese": "各自",
+        "pinyin": "gèzì",
+        "meaning": "Each"
+    },
+    {
+        "no": "237",
+        "chinese": "根本",
+        "pinyin": "gēnběn",
+        "meaning": "at all"
+    },
+    {
+        "no": "238",
+        "chinese": "更加",
+        "pinyin": "gèng jiā",
+        "meaning": "more; even more"
+    },
+    {
+        "no": "239",
+        "chinese": "工厂",
+        "pinyin": "gōngchǎng",
+        "meaning": "factory"
+    },
+    {
+        "no": "240",
+        "chinese": "工程师",
+        "pinyin": "gōngchéngshī",
+        "meaning": "Engineer"
+    },
+    {
+        "no": "241",
+        "chinese": "工夫",
+        "pinyin": "gōng fu",
+        "meaning": "time"
+    },
+    {
+        "no": "242",
+        "chinese": "工具",
+        "pinyin": "gōngjù",
+        "meaning": "tool"
+    },
+    {
+        "no": "243",
+        "chinese": "工业",
+        "pinyin": "gōngyè",
+        "meaning": "Industry"
+    },
+    {
+        "no": "244",
+        "chinese": "工资",
+        "pinyin": "gōngzī",
+        "meaning": "wages"
+    },
+    {
+        "no": "245",
+        "chinese": "公布",
+        "pinyin": "gōngbù",
+        "meaning": "Publish"
+    },
+    {
+        "no": "246",
+        "chinese": "公共",
+        "pinyin": "gōng gòng",
+        "meaning": "public; common; community"
+    },
+    {
+        "no": "247",
+        "chinese": "公开",
+        "pinyin": "gōngkāi",
+        "meaning": "open"
+    },
+    {
+        "no": "248",
+        "chinese": "公民",
+        "pinyin": "gōngmín",
+        "meaning": "citizen"
+    },
+    {
+        "no": "249",
+        "chinese": "公务员",
+        "pinyin": "gōng wù yuán",
+        "meaning": "civil servant; public functionary"
+    },
+    {
+        "no": "250",
+        "chinese": "功夫",
+        "pinyin": "gōngfu",
+        "meaning": "Kungfu"
+    },
+    {
+        "no": "251",
+        "chinese": "功课",
+        "pinyin": "gōng kè",
+        "meaning": "homework; schoolwork; classwork"
+    },
+    {
+        "no": "252",
+        "chinese": "功能",
+        "pinyin": "gōngnéng",
+        "meaning": "function"
+    },
+    {
+        "no": "253",
+        "chinese": "共同",
+        "pinyin": "gòngtóng",
+        "meaning": "common"
+    },
+    {
+        "no": "254",
+        "chinese": "共有",
+        "pinyin": "gòng yǒu",
+        "meaning": "have altogether; share; owned by all"
+    },
+    {
+        "no": "255",
+        "chinese": "姑娘",
+        "pinyin": "gūniang",
+        "meaning": "girl"
+    },
+    {
+        "no": "256",
+        "chinese": "古",
+        "pinyin": "gǔ",
+        "meaning": "ancient; old"
+    },
+    {
+        "no": "257",
+        "chinese": "古代",
+        "pinyin": "gǔdài",
+        "meaning": "Ancient"
+    },
+    {
+        "no": "258",
+        "chinese": "故乡",
+        "pinyin": "gùxiāng",
+        "meaning": "Hometown"
+    },
+    {
+        "no": "259",
+        "chinese": "挂",
+        "pinyin": "guà",
+        "meaning": "hang"
+    },
+    {
+        "no": "260",
+        "chinese": "关系",
+        "pinyin": "guānxì",
+        "meaning": "relationship"
+    },
+    {
+        "no": "261",
+        "chinese": "关注",
+        "pinyin": "guān zhù",
+        "meaning": "attention; follow with interest; pay close attention; show solicitude for"
+    },
+    {
+        "no": "262",
+        "chinese": "观察",
+        "pinyin": "guānchá",
+        "meaning": "observation"
+    },
+    {
+        "no": "263",
+        "chinese": "观看",
+        "pinyin": "guān kàn",
+        "meaning": "watch; view"
+    },
+    {
+        "no": "264",
+        "chinese": "观念",
+        "pinyin": "guānniàn",
+        "meaning": "concept"
+    },
+    {
+        "no": "265",
+        "chinese": "观众",
+        "pinyin": "guānzhòng",
+        "meaning": "Audience"
+    },
+    {
+        "no": "266",
+        "chinese": "管",
+        "pinyin": "guǎn",
+        "meaning": "control; be in charge of; manage; run"
+    },
+    {
+        "no": "267",
+        "chinese": "管理",
+        "pinyin": "guǎnlǐ",
+        "meaning": "Administration"
+    },
+    {
+        "no": "268",
+        "chinese": "光",
+        "pinyin": "guāng",
+        "meaning": "light"
+    },
+    {
+        "no": "269",
+        "chinese": "光明",
+        "pinyin": "guāngmíng",
+        "meaning": "light"
+    },
+    {
+        "no": "270",
+        "chinese": "广播",
+        "pinyin": "guǎngbō",
+        "meaning": "Radio broadcast"
+    },
+    {
+        "no": "271",
+        "chinese": "广大",
+        "pinyin": "guǎngdà",
+        "meaning": "Vast"
+    },
+    {
+        "no": "272",
+        "chinese": "规定",
+        "pinyin": "guīdìng",
+        "meaning": "Regulations"
+    },
+    {
+        "no": "273",
+        "chinese": "规范",
+        "pinyin": "guīfàn",
+        "meaning": "criterion; rule"
+    },
+    {
+        "no": "274",
+        "chinese": "国内",
+        "pinyin": "guó nèi",
+        "meaning": "domestic; internal"
+    },
+    {
+        "no": "275",
+        "chinese": "国庆",
+        "pinyin": "guó qìng",
+        "meaning": "National Day"
+    },
+    {
+        "no": "276",
+        "chinese": "果然",
+        "pinyin": "guǒrán",
+        "meaning": "Sure enough"
+    },
+    {
+        "no": "277",
+        "chinese": "果汁",
+        "pinyin": "guǒzhī",
+        "meaning": "fruit juice"
+    },
+    {
+        "no": "278",
+        "chinese": "过程",
+        "pinyin": "guòchéng",
+        "meaning": "process"
+    },
+    {
+        "no": "279",
+        "chinese": "过去（名）",
+        "pinyin": "guò qù",
+        "meaning": "past; old; foretime"
+    },
+    {
+        "no": "280",
+        "chinese": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "ha-ha"
+    },
+    {
+        "no": "281",
+        "chinese": "海关",
+        "pinyin": "hǎiguān",
+        "meaning": "Customs"
+    },
+    {
+        "no": "282",
+        "chinese": "害怕",
+        "pinyin": "hàipà",
+        "meaning": "Fear"
+    },
+    {
+        "no": "283",
+        "chinese": "行",
+        "pinyin": "háng",
+        "meaning": "row，line"
+    },
+    {
+        "no": "284",
+        "chinese": "好好",
+        "pinyin": "hǎo hǎo",
+        "meaning": "really good, really nice"
+    },
+    {
+        "no": "285",
+        "chinese": "好奇",
+        "pinyin": "hàoqí",
+        "meaning": "Be curious"
+    },
+    {
+        "no": "286",
+        "chinese": "合",
+        "pinyin": "hé",
+        "meaning": "close; shut; be equal to; add up to; join"
+    },
+    {
+        "no": "287",
+        "chinese": "合法",
+        "pinyin": "héfǎ",
+        "meaning": "legitimate"
+    },
+    {
+        "no": "288",
+        "chinese": "合格",
+        "pinyin": "hégé",
+        "meaning": "qualified"
+    },
+    {
+        "no": "289",
+        "chinese": "合理",
+        "pinyin": "hélǐ",
+        "meaning": "reasonable"
+    },
+    {
+        "no": "290",
+        "chinese": "合作",
+        "pinyin": "hézuò",
+        "meaning": "cooperation"
+    },
+    {
+        "no": "291",
+        "chinese": "和平",
+        "pinyin": "hépíng",
+        "meaning": "peace"
+    },
+    {
+        "no": "292",
+        "chinese": "红茶",
+        "pinyin": "hóng chá",
+        "meaning": "black tea"
+    },
+    {
+        "no": "293",
+        "chinese": "红酒",
+        "pinyin": "hóng jiǔ",
+        "meaning": "red wine"
+    },
+    {
+        "no": "294",
+        "chinese": "后果",
+        "pinyin": "hòuguǒ",
+        "meaning": "Consequence"
+    },
+    {
+        "no": "295",
+        "chinese": "后面",
+        "pinyin": "hòumiàn",
+        "meaning": "behind"
+    },
+    {
+        "no": "296",
+        "chinese": "后年",
+        "pinyin": "hòu nián",
+        "meaning": "the year after next"
+    },
+    {
+        "no": "297",
+        "chinese": "互联网",
+        "pinyin": "hùliánwǎng",
+        "meaning": "Internet"
+    },
+    {
+        "no": "298",
+        "chinese": "互相",
+        "pinyin": "hùxiāng",
+        "meaning": "each other"
+    },
+    {
+        "no": "299",
+        "chinese": "划船",
+        "pinyin": "huá chuán",
+        "meaning": "row; paddle a boat; go boating"
+    },
+    {
+        "no": "300",
+        "chinese": "华人",
+        "pinyin": "huá rén",
+        "meaning": "Chinese; ethnic Chinese"
+    },
+    {
+        "no": "301",
+        "chinese": "化（现代化）",
+        "pinyin": "huà （xiàn dài huà）",
+        "meaning": "suffix (modernize; modernization)"
+    },
+    {
+        "no": "302",
+        "chinese": "话剧",
+        "pinyin": "huà jù",
+        "meaning": "drama"
+    },
+    {
+        "no": "303",
+        "chinese": "话题",
+        "pinyin": "huàtí",
+        "meaning": "Topic of conversation"
+    },
+    {
+        "no": "304",
+        "chinese": "欢乐",
+        "pinyin": "huānlè",
+        "meaning": "Happy"
+    },
+    {
+        "no": "305",
+        "chinese": "环",
+        "pinyin": "huán",
+        "meaning": "ring; loop; link; annulus"
+    },
+    {
+        "no": "306",
+        "chinese": "环保",
+        "pinyin": "huán bǎo",
+        "meaning": "environmental protection"
+    },
+    {
+        "no": "307",
+        "chinese": "环境",
+        "pinyin": "huánjìng",
+        "meaning": "Environment"
+    },
+    {
+        "no": "308",
+        "chinese": "会议",
+        "pinyin": "huìyì",
+        "meaning": "Meeting"
+    },
+    {
+        "no": "309",
+        "chinese": "会员",
+        "pinyin": "huì yuán",
+        "meaning": "membership"
+    },
+    {
+        "no": "310",
+        "chinese": "活",
+        "pinyin": "huó",
+        "meaning": "live; save; work; living; alive"
+    },
+    {
+        "no": "311",
+        "chinese": "火（名）",
+        "pinyin": "huǒ",
+        "meaning": "fire; anger; temper"
+    },
+    {
+        "no": "312",
+        "chinese": "机器",
+        "pinyin": "jīqì",
+        "meaning": "machine"
+    },
+    {
+        "no": "313",
+        "chinese": "积极",
+        "pinyin": "jījí",
+        "meaning": "positive"
+    },
+    {
+        "no": "314",
+        "chinese": "基本",
+        "pinyin": "jīběn",
+        "meaning": "basic"
+    },
+    {
+        "no": "315",
+        "chinese": "基本上",
+        "pinyin": "jī běn shàng",
+        "meaning": "basically"
+    },
+    {
+        "no": "316",
+        "chinese": "基础",
+        "pinyin": "jīchǔ",
+        "meaning": "Basics"
+    },
+    {
+        "no": "317",
+        "chinese": "及时",
+        "pinyin": "jíshí",
+        "meaning": "timely"
+    },
+    {
+        "no": "318",
+        "chinese": "…极了",
+        "pinyin": "… jí le",
+        "meaning": "extremely; exceedingly"
+    },
+    {
+        "no": "319",
+        "chinese": "集体",
+        "pinyin": "jítǐ",
+        "meaning": "collective"
+    },
+    {
+        "no": "320",
+        "chinese": "集中",
+        "pinyin": "jízhōng",
+        "meaning": "focus"
+    },
+    {
+        "no": "321",
+        "chinese": "计算",
+        "pinyin": "jìsuàn",
+        "meaning": "Calculation"
+    },
+    {
+        "no": "322",
+        "chinese": "记录",
+        "pinyin": "jìlù",
+        "meaning": "Record"
+    },
+    {
+        "no": "323",
+        "chinese": "记者",
+        "pinyin": "jìzhě",
+        "meaning": "Reporter"
+    },
+    {
+        "no": "324",
+        "chinese": "纪录",
+        "pinyin": "jìlù",
+        "meaning": "Record"
+    },
+    {
+        "no": "325",
+        "chinese": "纪念",
+        "pinyin": "jìniàn",
+        "meaning": "Anniversary"
+    }
+]
