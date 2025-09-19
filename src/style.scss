@@ -1,5 +1,5 @@
 :root {
-  --free-site-bar-height: 0; /* 55px; */
+  --free-site-bar-height: 0px; /* 55px; */
 
   --primary-color: #8284a2;
   --primary-color-light: #a3a6dc;
@@ -41,54 +41,69 @@ a {
   font-weight: 500;
   color: var(--primary-color);
   text-decoration: inherit;
-}
-a:hover {
-  color: var(--primary-color-light);
+  
+  &:hover {
+    color: var(--primary-color-light);
+  }
 }
 
 body {
   margin: 0;
 }
 
-.bg-hsk1 {
-  background-color: var(--hsk1-color);
-}
-.bg-hsk2 {
-  background-color: var(--hsk2-color);
-  color: var(--bg-color);
-}
-.bg-hsk3 {
-  background-color: var(--hsk3-color);
-}
-.bg-hsk4 {
-  background-color: var(--hsk4-color);
-  color: var(--bg-color);
-}
-.bg-hsk5 {
-  background-color: var(--hsk5-color);
-}
-.bg-hsk6 {
-  background-color: var(--hsk6-color);
-  color: var(--bg-color);
+.bg{
+  &-hsk1 {
+    background-color: var(--hsk1-color);
+  }
+  
+  &-hsk2 {
+    background-color: var(--hsk2-color);
+    color: var(--bg-color);
+  }
+  
+  &-hsk3 {
+    background-color: var(--hsk3-color);
+  }
+  
+  &-hsk4 {
+    background-color: var(--hsk4-color);
+    color: var(--bg-color);
+  }
+  
+  &-hsk5 {
+    background-color: var(--hsk5-color);
+  }
+  
+  &-hsk6 {
+    background-color: var(--hsk6-color);
+    color: var(--bg-color);
+  }
 }
 
-.text-hsk1 {
-  color: var(--hsk1-color);
-}
-.text-hsk2 {
-  color: var(--hsk2-color);
-}
-.text-hsk3 {
-  color: var(--hsk3-color);
-}
-.text-hsk4 {
-  color: var(--hsk4-color);
-}
-.text-hsk5 {
-  color: var(--hsk5-color);
-}
-.text-hsk6 {
-  color: var(--hsk6-color);
+.text {
+  &-hsk1 {
+    color: var(--hsk1-color);
+  }
+
+  &-hsk2 {
+    color: var(--hsk2-color);
+  }
+  
+  &-hsk3 {
+    color: var(--hsk3-color);
+  }
+  
+  &-hsk4 {
+    color: var(--hsk4-color);
+  }
+  
+  &-hsk5 {
+    color: var(--hsk5-color);
+  }
+  
+  &-hsk6 {
+    color: var(--hsk6-color);
+  }
 }
 
 button {
@@ -97,23 +112,27 @@ button {
   border: 0;
   border-radius: 0;
   cursor: pointer;
+  
+  &.btn {
+    padding: var(--general-padding);
+    background-color: var(--primary-color);
+    border: 1px solid var(--primary-color-light);
+    
+    &:hover {
+      background-color: var(--primary-color-light);
+    }
+    
+    &:focus,
+    &:focus-visible {
+      outline: none;
+    }
+  }
 }
 
-button.btn {
-  padding: var(--general-padding);
-  background-color: var(--primary-color);
-  border: 1px solid var(--primary-color-light);
-}
-button.btn:hover {
-  background-color: var(--primary-color-light);
-}
-button.btn:focus,
-button.btn:focus-visible {
-  outline: none;
-}
 
 #app {
   margin: 0 auto;
+  height: 100vh;
 }
 
 .overlay {

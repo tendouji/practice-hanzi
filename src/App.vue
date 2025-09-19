@@ -223,8 +223,8 @@ function mapList(list, level) {
   }));
 }
 
-function showDefinition() {
-  isDefinition.value = !isDefinition.value;
+function showDefinition(show = true) {
+  isDefinition.value = show;
 }
 
 function showItem() {
@@ -236,7 +236,7 @@ function showItem() {
     pinyin.value = targetItem.pinyin;
     meaning.value = targetItem.meaning;
   } else {
-    alert("No more hanja");
+    alert("No more hanzi");
   }
 }
 
@@ -374,6 +374,13 @@ function randomiseList() {
 onMounted(() => {
   getStoredProgress();
   showItem();
+  document.addEventListener("click", (e) => {
+    const targetButton = e.target.closest("button");
+    if (targetButton) {
+      e.target.blur();
+      document.body.focus();
+    }
+  });
   document.addEventListener("keydown", (e) => {
     if (e.code === "ArrowRight") {
       nextItem();
@@ -382,7 +389,16 @@ onMounted(() => {
       previousItem();
     }
     if (e.code === "Space") {
-      showDefinition();
+      if (!isDefinition.value) {
+        showDefinition(true);
+      }
+    }
+  });
+  document.addEventListener("keyup", (e) => {
+    if (e.code === "Space") {
+      if (isDefinition.value) {
+        showDefinition(false);
+      }
     }
   });
 });
@@ -496,7 +512,7 @@ onMounted(() => {
 <style lang="scss" scoped>
 .display {
   position: relative;
-  height: calc(100vh - var(--selector-height) - (2 * var(--button-height)));
+  height: calc(100vh - var(--button-height));
 
   .btn.save,
   .btn.unsave,
