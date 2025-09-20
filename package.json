@@ -1,18 +1,22 @@
 {
-  "name": "practice-hanja",
+  "name": "practice-hanzi",
   "private": true,
   "version": "0.0.0",
+  "homepage": "http://tendouji.github.io/practice-hanzi",
   "type": "module",
   "scripts": {
     "dev": "vite --port 5555 --host",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "vue": "^3.4.29"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
+    "gh-pages": "^6.3.0",
     "sass": "^1.77.8",
     "vite": "^5.3.1"
   }

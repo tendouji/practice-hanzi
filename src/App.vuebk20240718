@@ -11,7 +11,7 @@ import * as HSK4DataSrc from './assets/data/hsk4.json';
 import * as HSK5DataSrc from './assets/data/hsk5.json';
 import * as HSK6DataSrc from './assets/data/hsk6.json';
 
-const storageKey = "hanjaProgress";
+const storageKey = "hanziProgress";
 const defaultLevel = "hsk1-1";
 const levelBreakDownList = {
   "hsk1-1": {
@@ -236,7 +236,7 @@ function showItem() {
     pinyin.value = targetItem.pinyin;
     meaning.value = targetItem.meaning;
   } else {
-    alert("No more hanja");
+    alert("No more hanzi");
   }
 }
 

@@ -11,7 +11,7 @@ import * as HSK4DataSrc from './assets/data/hsk4.json';
 import * as HSK5DataSrc from './assets/data/hsk5.json';
 import * as HSK6DataSrc from './assets/data/hsk6.json';
 
-const storageKey = "hanjaProgress";
+const storageKey = "hanziProgress";
 const defaultLevel = "hsk1-1";
 const levelBreakDownList = {
   "hsk1-1": {
@@ -459,7 +459,7 @@ onMounted(() => {
     </button>
     <CharacterSearch class="search" @search-triggered="searchCharacterHandler" />
   </div>
-  <button class="btn define" @click="showDefinition()" title="Define">
+  <button class="btn define" @click="showDefinition(!isDefinition)" title="Define">
     <svg 
       xmlns="http://www.w3.org/2000/svg" 
       height="48px" 
